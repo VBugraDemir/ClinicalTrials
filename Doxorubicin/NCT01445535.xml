@@ -1,0 +1,2046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="70">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT01445535</url>
+  </required_header>
+  <id_info>
+    <org_study_id>090065</org_study_id>
+    <secondary_id>09-C-0065</secondary_id>
+    <nct_id>NCT01445535</nct_id>
+    <nct_alias>NCT00832936</nct_alias>
+  </id_info>
+  <brief_title>Phase 1 Trial of Siplizumab and Dose-Adjusted EPOCH-Rituximab in T- and NK-Cell Lymphomas</brief_title>
+  <official_title>Phase 1 Trial of Siplizumab and Dose-Adjusted EPOCH-Rituximab (DA-EPOCH-R) in T and NK-Cell Lymphomas</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Studies conducted at the National Cancer Institute suggest that certain chemotherapy drugs&#xD;
+      may be more effective if given by continuous infusion into the vein rather than by the&#xD;
+      standard method of rapid intravenous injection. One such combination of six chemotherapy&#xD;
+      drugs, known as Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, Rituximab&#xD;
+      (EPOCH-R), has had a high degree of effectiveness in people with certain kinds of cancer.&#xD;
+      Recent evidence also indicates that the effects of chemotherapy may be improved by combining&#xD;
+      the treatment with monoclonal antibodies, which are purified proteins that are specially made&#xD;
+      to attach to foreign substances such as cancer cells. This protocol is specifically for&#xD;
+      adults with the types of cancer known as T-cell and Naturel Killer (NK)-cell lymphomas, who&#xD;
+      have never received chemotherapy previously. The additional monoclonal antibody in the study,&#xD;
+      called siplizumab, has been manufactured to attach to the cluster of differentiation 2 (CD2)&#xD;
+      protein contained in these types of tumors.&#xD;
+&#xD;
+      Study volunteers will need to undergo an initial period of evaluation that may take up to 3&#xD;
+      weeks and may be done on an outpatient basis. Evaluation may include some or all of the&#xD;
+      following tests: blood and urine tests, tests of lung and heart function, lumbar punctures to&#xD;
+      take samples of cerebrospinal fluid, magnetic resonance imaging (MRI) or computerized&#xD;
+      tomography (CT) scans, full-body positron emission tomography (PET) scans, bone marrow&#xD;
+      biopsies, and biopsies of suspected tumor areas.&#xD;
+&#xD;
+      During the study, patients will receive EPOCH-R chemotherapy, which includes the following&#xD;
+      drugs: etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab. The&#xD;
+      additional drug, siplizumab, will be given by IV infusion on the first day of treatment over&#xD;
+      several hours. When the siplizumab intravenous (IV) infusion is complete, the drugs&#xD;
+      doxorubicin, etoposide, and vincristine will each be given by continuous IV infusion over the&#xD;
+      next 4 days (that is, continuously for a total of 96 hours). When this infusion is completed,&#xD;
+      the drugs rituximab and cyclophosphamide will be given by IV infusion over several hours on&#xD;
+      Day 5. Prednisone will be given by mouth twice each day for 5 days. Patients may be given&#xD;
+      other drugs to treat the side effects of chemotherapy and to prevent possible infections.&#xD;
+&#xD;
+      The siplizumab-EPOCH-R therapy will be repeated every 21 days, which is known as a cycle of&#xD;
+      therapy, for a total of 6 cycles. Following the fourth and sixth treatment cycles&#xD;
+      (approximately weeks 12 and 18) of siplizumab-EPOCH-R, study researchers will perform blood&#xD;
+      tests and CT/MRI scans on all patients to assess their response to the treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      The clinical outcome for patients with T-cell non-Hodgkin's lymphoma is significantly&#xD;
+      inferior to the outcome of patients with B-cell non-Hodgkin's lymphoma. In most reports less&#xD;
+      than 20% of patients with T cell lymphoid malignancies remain free of disease at 5 years.&#xD;
+&#xD;
+      The combination of alemtuzumab and Etoposide, Prednisone, Vincristine, Cyclophosphamide and&#xD;
+      Doxorubicin (EPOCH) chemotherapy was evaluated in patients with chemotherapy naive aggressive&#xD;
+      T and natural killer (NK) cell lymphoid malignancy. Dose-limiting bone marrow toxicity&#xD;
+      prevented escalation of the alemtuzumab dose.&#xD;
+&#xD;
+      Siplizumab is a humanized monoclonal antibody directed at cluster of differentiation 2 (CD2)&#xD;
+      that demonstrated activity in the treatment of relapsed/refractory T cell lymphoma,&#xD;
+      suggesting further development by combining with chemotherapy for untreated patients.&#xD;
+      Siplizumab caused Epstein-Barr Virus (EBV) lymphoproliferative disease in patients treated&#xD;
+      with a weekly schedule of administration.&#xD;
+&#xD;
+      Rituximab prevents the development of EBV lymphoproliferative disease in the allogeneic&#xD;
+      transplant setting and may be active in preventing EBV-related B cell lymphoma in other&#xD;
+      settings.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+      Determine the toxicity and maximum tolerated dose of siplizumab and dose-adjusted EPOCH&#xD;
+      rituximab chemotherapy in chemotherapy naïve CD2- expressing T and NK lymphoid malignancies.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+      CD2-expressing lymphoid malignancy.&#xD;
+&#xD;
+      Patients with chemotherapy naive aggressive T &amp; NK lymphomas. Patients with alk-positive&#xD;
+      anaplastic large cell lymphoma and patients with T-cell precursor disease are not eligible.&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+      Four dose levels of siplizumab will be evaluated to determine the toxicity profile and in a&#xD;
+      preliminary fashion, and its activity in combination with dose-adjusted EPOCH with rituximab.&#xD;
+&#xD;
+      Four dose levels of siplizumab will be explored, in cohorts of three to six patients each.&#xD;
+      Patients will receive 3.4, 4.8, 8.5, or 15 mg/kg of siplizumab on day 1 of therapy, followed&#xD;
+      by dose-adjusted EPOCH-rituximab chemotherapy days 1-5 every 3 weeks for a total of 6 cycles.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 13, 2009</start_date>
+  <completion_date type="Anticipated">October 1, 2020</completion_date>
+  <primary_completion_date type="Actual">April 1, 2011</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Serious and Non-serious Adverse Events</measure>
+    <time_frame>Date treatment consent signed until 30 days after removal from study treatment or until off study, whichever comes first, approximately 22 weeks.</time_frame>
+    <description>Here is the count of participants with serious and non-serious adverse events assessed by the Common Terminology Criteria for Adverse Events (CTCAE v3.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose (MTD) of Siplizumab</measure>
+    <time_frame>First 30 days after treatment initiation.</time_frame>
+    <description>A classic 3+3 dose-escalation design was used to assess the MTD of siplizumab in combination with dose-adjusted etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH-R). If 2 of 6 patients experienced a dose-limiting toxicity (DLT) at a particular dose level, the MTD has been exceeded. The preceding dose level will be the MTD, provided 6 patients have been entered at this level and no more than one has experienced a DLT. DLTs for siplizumab was defined as infusional grade 3 non-hematologic toxicity lasting longer than 6 hours after the infusion, any grade 4 non-hematologic toxicity, or the development of an Epstein Barr Virus (EBV)-related lymphoproliferative disorder (LPD). Expected toxicities of dose-adjusted EPOCH-R and grade 3 laboratory adverse events (AEs) were not considered to be DLTs.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With a Response to Therapy</measure>
+    <time_frame>Response assessments were performed after the fourth and sixth cycle of therapy, at therapy completion, and every 3 months for year 1, four months for year 2, 6 months for years 3-5, and annually thereafter, up to 5 years.</time_frame>
+    <description>Response was assessed by the International Workshop to Standardize Response Criteria for Non-Hodgkin's Lymphoma. Complete Remission was defined as the disappearance of all detectable clinical and radiographic evidence of disease, disappearance of all disease related symptoms if present before therapy, and normalization of those biochemical abnormalities (for example lactate dehydrogenase (LDH)) definitely assignable to the lymphoma. Complete response unconfirmed was defined as a residual node greater than 1.5 cm, with a decrease by greater than 75 percent in the sum of the products of the perpendicular diameters (SPD) of all measured lymph nodes. Partial Response was defined as a ≥ 50% decreased in SPD of 6 largest dominant nodes or nodal masses. Relapsed disease was defined as the appearance of any new lesion or increase by ≥50% in the size of the previously identified sites. Progressive disease was defined as a ≥50% increase from nadir in the SPD.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Progression Free Survival (PFS)</measure>
+    <time_frame>On-study date until date of progression or last follow up, approximately 7 months.</time_frame>
+    <description>Progression was assessed by the International Workshop to Standardize Response Criteria for Non-Hodgkin's Lymphoma. Progression is defined as ≥50% increase from nadir in the sum of the products of the perpendicular diameters (SPD) of any previously identified abnormal nodes for Partial Response's or non-responders. Progression-free survival (PFS) was determined from the on-study date until date of progression or last follow-up. The probability of PFS as a function of time was estimated by the Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>On study date until date of death or last follow up, approximately 12 months.</time_frame>
+    <description>Overall survival was determined from the on-study date until date of progression or last follow up. The probability of OS as a function of time was estimated by the Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Number of Dose-Limiting Toxicities (DLT)</measure>
+    <time_frame>First 30 days after treatment initiation.</time_frame>
+    <description>DLTs for siplizumab was defined as infusional grade 3 non-hematologic toxicity lasting longer than 6 hours after the infusion, any grade 4 non-hematologic toxicity, or the development of an EBV-related lymphoproliferative disorder (LPD). Expected toxicities of dose-adjusted etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH-R) and grade 3 laboratory AEs were not considered to be DLTs.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">15</enrollment>
+  <condition>T-Cell Peripheral Lymphoma</condition>
+  <condition>Gamma Delta Hepatosplenic T-Cell Lymphoma</condition>
+  <condition>Subcutaneous Panniculitis-Like T-Cell Lymphoma</condition>
+  <condition>NK T-Cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>siplizumab + EPOCH (combo chemo) + rituximab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>siplizumab will be given with EPOCH (combo chemo) and rituximab every 21 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Rituximab</intervention_name>
+    <description>Rituximab will be given with siplizumab and etoposide, prednisone, vincristine, cyclophosphamide, and doxorubicin every 21 days</description>
+    <arm_group_label>siplizumab + EPOCH (combo chemo) + rituximab</arm_group_label>
+    <other_name>Rituxan</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Etoposide</intervention_name>
+    <description>Etoposide will be given with siplizumab and prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab every 21 days</description>
+    <arm_group_label>siplizumab + EPOCH (combo chemo) + rituximab</arm_group_label>
+    <other_name>Toposar</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Siplizumab</intervention_name>
+    <description>Siplizumab will be given with etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab every 21 days</description>
+    <arm_group_label>siplizumab + EPOCH (combo chemo) + rituximab</arm_group_label>
+    <other_name>MEDI-507</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prednisone</intervention_name>
+    <description>Prednisone will be given with siplizumab and etoposide, vincristine, cyclophosphamide, doxorubicin and rituximab every 21 days</description>
+    <arm_group_label>siplizumab + EPOCH (combo chemo) + rituximab</arm_group_label>
+    <other_name>Deltasone</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vincristine</intervention_name>
+    <description>Vincristine will be given with siplizumab and etoposide, prednisone, cyclophosphamide, doxorubicin and rituximab every 21 days</description>
+    <arm_group_label>siplizumab + EPOCH (combo chemo) + rituximab</arm_group_label>
+    <other_name>Marqibo</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Cyclophosphamide will be given with siplizumab and etoposide, prednisone, vincristine, doxorubicin and rituximab every 21 days</description>
+    <arm_group_label>siplizumab + EPOCH (combo chemo) + rituximab</arm_group_label>
+    <other_name>Cytoxan</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxorubicin</intervention_name>
+    <description>Doxorubicin will be given with siplizumab and etoposide, prednisone, cyclophosphamide and rituximab every 21 days</description>
+    <arm_group_label>siplizumab + EPOCH (combo chemo) + rituximab</arm_group_label>
+    <other_name>Doxil</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+        Cluster of differentiation 2 (CD2)-expressing lymphoid malignancy, confirmed by pathology&#xD;
+        or flow cytometry staff of the Hematopathology Section, Laboratory of Pathology, National&#xD;
+        Cancer Institute (NCI). At least 30% of the malignant cells must be CD2 positive for&#xD;
+        inclusion in this study.&#xD;
+&#xD;
+        Patients with chemotherapy naive T &amp; Natural Killer (NK) lymphomas, including but not&#xD;
+        limited to peripheral T cell lymphoma (nos), gamma-delta hepatosplenic T cell lymphoma,&#xD;
+        subcutaneous panniculitis-like T cell, NK-T cell lymphoma confirmed by pathology or flow&#xD;
+        cytometry staff of the Hematopathology Section, Laboratory of Pathology, NCI. Patients with&#xD;
+        alk-positive anaplastic large cell lymphoma and patients with T-cell precursor disease are&#xD;
+        not eligible.&#xD;
+&#xD;
+        Age greater than or equal to 18 years.&#xD;
+&#xD;
+        Laboratory tests: Creatinine less than or equal to 1.5 mg/dL or creatinine clearance&#xD;
+        greater than or equal to 60 ml/min; bilirubin less than 2.0 mg/dl unless due to Gilbert's&#xD;
+        (unconjugated hyperbilirubinemia without other known cause), aspartate aminotransferase&#xD;
+        (AST) and alanine aminotransferase (ALT) less than or equal to 3 times upper limit of&#xD;
+        normal (ULN) (AST and ALT less than or equal to 6 times ULN for patients on&#xD;
+        hyperalimentation for whom these abnormalities are felt to be due to the hyperalimentation)&#xD;
+        and; Absolute neutrophil count (ANC) greater than or equal to 1000/mm(3), platelet greater&#xD;
+        than or equal to 75,000/mm(3); unless impairment due to respective organ impairment by&#xD;
+        tumor.&#xD;
+&#xD;
+        No active symptomatic ischemic heart disease, myocardial infarction or congestive heart&#xD;
+        failure within the past year.&#xD;
+&#xD;
+        Patients must not have a marked baseline prolongation of Q wave, T wave (QT/QTc) interval&#xD;
+        (e.g., demonstration of a corrected QT interval (QTc) interval &gt;500 milliseconds (ms)).&#xD;
+&#xD;
+        Human immunodeficiency virus (HIV) negative, because of the unknown effects of combined&#xD;
+        therapy with chemotherapy and an immunosuppressive agent on HIV progression.&#xD;
+&#xD;
+        Signed informed consent by the patient or patient's representative.&#xD;
+&#xD;
+        Willing to use contraception.&#xD;
+&#xD;
+        Not pregnant or nursing, because of the unknown effects of dose-adjusted etoposide,&#xD;
+        prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (DA-EPOCH-R) or&#xD;
+        siplizumab on the developing fetus and infant.&#xD;
+&#xD;
+        No serious underlying medical condition or infection that would contraindicate treatment.&#xD;
+        Patients with central nervous system (CNS) involvement are eligible for treatment on this&#xD;
+        study.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Patients less than 18 years of age will be excluded because siplizumab has not been given&#xD;
+        to minors in combination with chemotherapy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wyndham H Wilson, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute (NCI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2009-C-0065.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Abruzzo LV, Rosales CM, Medeiros LJ, Vega F, Luthra R, Manning JT, Keating MJ, Jones D. Epstein-Barr virus-positive B-cell lymphoproliferative disorders arising in immunodeficient patients previously treated with fludarabine for low-grade B-cell neoplasms. Am J Surg Pathol. 2002 May;26(5):630-6.</citation>
+    <PMID>11979093</PMID>
+  </reference>
+  <reference>
+    <citation>Bhargava R, Barbashina V, Filippa DA, Teruya-Feldstein J. Epstein-Barr virus positive large B-cell lymphoma arising in a patient previously treated with Cladribine for hairy cell leukemia. Leuk Lymphoma. 2004 May;45(5):1043-8.</citation>
+    <PMID>15291365</PMID>
+  </reference>
+  <reference>
+    <citation>Birkeland SA, Hamilton-Dutoit S. Is posttransplant lymphoproliferative disorder (PTLD) caused by any specific immunosuppressive drug or by the transplantation per se? Transplantation. 2003 Sep 27;76(6):984-8.</citation>
+    <PMID>14508366</PMID>
+  </reference>
+  <results_reference>
+    <citation>Roswarski J, Roschewski M, Lucas A, Melani C, Pittaluga S, Jaffe ES, Steinberg SM, Waldmann TA, Wilson WH. Phase I dose escalation study of the anti-CD2 monoclonal antibody, siplizumab, with DA-EPOCH-R in aggressive peripheral T-cell lymphomas. Leuk Lymphoma. 2018 Jun;59(6):1466-1469. doi: 10.1080/10428194.2017.1387908. Epub 2017 Oct 16.</citation>
+    <PMID>29032710</PMID>
+  </results_reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>September 30, 2011</study_first_submitted>
+  <study_first_submitted_qc>September 30, 2011</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 3, 2011</study_first_posted>
+  <results_first_submitted>May 12, 2020</results_first_submitted>
+  <results_first_submitted_qc>August 6, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 18, 2020</results_first_posted>
+  <last_update_submitted>August 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Cancer Institute (NCI)</investigator_affiliation>
+    <investigator_full_name>Wyndham Wilson, M.D.</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>CD2 Positive</keyword>
+  <keyword>Toxicity</keyword>
+  <keyword>EBV Lymphoma</keyword>
+  <keyword>Chemotherapy Naive</keyword>
+  <keyword>Maximum Tolerated Dose</keyword>
+  <keyword>Lymphoma</keyword>
+  <keyword>T-Cell Lymphoma</keyword>
+  <keyword>NK T-Cell Lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, T-Cell</mesh_term>
+    <mesh_term>Panniculitis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>November 21, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/35/NCT01445535/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>December 18, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/35/NCT01445535/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Cohort 1 - 3.4 mg/kg</title>
+          <description>3.4 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+        </group>
+        <group group_id="P2">
+          <title>Cohort 2 - 4.8 mg/kg</title>
+          <description>4.8 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+        </group>
+        <group group_id="P3">
+          <title>Cohort 3 - 8.5 mg/kg</title>
+          <description>8.5 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+        </group>
+        <group group_id="P4">
+          <title>Cohort 4 - 15 mg/kg</title>
+          <description>15 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="3"/>
+                <participants group_id="P4" count="6"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="3"/>
+                <participants group_id="P3" count="2"/>
+                <participants group_id="P4" count="4"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="2"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Enrolled/taken off study, no drug avail.</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Disease progression</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>PI discretion</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Cohort 1 - 3.4 mg/kg</title>
+          <description>3.4 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+        </group>
+        <group group_id="B2">
+          <title>Cohort 2 - 4.8 mg/kg</title>
+          <description>4.8 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+        </group>
+        <group group_id="B3">
+          <title>Cohort 3 - 8.5 mg/kg</title>
+          <description>8.5 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+        </group>
+        <group group_id="B4">
+          <title>Cohort 4 - 15 mg/kg</title>
+          <description>15 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+        </group>
+        <group group_id="B5">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="3"/>
+            <count group_id="B2" value="3"/>
+            <count group_id="B3" value="3"/>
+            <count group_id="B4" value="6"/>
+            <count group_id="B5" value="15"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="4"/>
+                    <measurement group_id="B5" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="2"/>
+                    <measurement group_id="B5" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37.43" spread="16.1"/>
+                    <measurement group_id="B2" value="42.2" spread="10.31"/>
+                    <measurement group_id="B3" value="70.03" spread="6.87"/>
+                    <measurement group_id="B4" value="45.38" spread="17.1"/>
+                    <measurement group_id="B5" value="48.76" spread="12.59"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="5"/>
+                    <measurement group_id="B5" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="4"/>
+                    <measurement group_id="B5" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="2"/>
+                    <measurement group_id="B5" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="2"/>
+                    <measurement group_id="B5" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="4"/>
+                    <measurement group_id="B5" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="6"/>
+                    <measurement group_id="B5" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Disease Status</title>
+          <description>ATL: Adult T-cell leukemia/lymphoma; PTCL: peripheral T-cell lymphoma not-otherwise specified; EATL: enteropathy-associated T-cell lymphoma; CGDTCL: cutaneous gamma/delta T-cell lymphoma.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>ATL</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="3"/>
+                    <measurement group_id="B5" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>PTCL, NOS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>EATL</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>CGDTCL</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Serious and Non-serious Adverse Events</title>
+        <description>Here is the count of participants with serious and non-serious adverse events assessed by the Common Terminology Criteria for Adverse Events (CTCAE v3.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned.</description>
+        <time_frame>Date treatment consent signed until 30 days after removal from study treatment or until off study, whichever comes first, approximately 22 weeks.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Cohort 1 - 3.4 mg/kg</title>
+            <description>3.4 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Cohort 2 - 4.8 mg/kg</title>
+            <description>4.8 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Cohort 3 - 8.5 mg/kg</title>
+            <description>8.5 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+          <group group_id="O4">
+            <title>Cohort 4 - 15 mg/kg</title>
+            <description>15 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Serious and Non-serious Adverse Events</title>
+          <description>Here is the count of participants with serious and non-serious adverse events assessed by the Common Terminology Criteria for Adverse Events (CTCAE v3.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3"/>
+                <count group_id="O2" value="3"/>
+                <count group_id="O3" value="3"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="3"/>
+                    <measurement group_id="O3" value="3"/>
+                    <measurement group_id="O4" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Maximum Tolerated Dose (MTD) of Siplizumab</title>
+        <description>A classic 3+3 dose-escalation design was used to assess the MTD of siplizumab in combination with dose-adjusted etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH-R). If 2 of 6 patients experienced a dose-limiting toxicity (DLT) at a particular dose level, the MTD has been exceeded. The preceding dose level will be the MTD, provided 6 patients have been entered at this level and no more than one has experienced a DLT. DLTs for siplizumab was defined as infusional grade 3 non-hematologic toxicity lasting longer than 6 hours after the infusion, any grade 4 non-hematologic toxicity, or the development of an Epstein Barr Virus (EBV)-related lymphoproliferative disorder (LPD). Expected toxicities of dose-adjusted EPOCH-R and grade 3 laboratory adverse events (AEs) were not considered to be DLTs.</description>
+        <time_frame>First 30 days after treatment initiation.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>All Participants</title>
+            <description>All participants who received 3.4 mg/kg, 4.8 mg/kg, 8.5 mg/kg and 15 mg/kg siplizumab given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Maximum Tolerated Dose (MTD) of Siplizumab</title>
+          <description>A classic 3+3 dose-escalation design was used to assess the MTD of siplizumab in combination with dose-adjusted etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH-R). If 2 of 6 patients experienced a dose-limiting toxicity (DLT) at a particular dose level, the MTD has been exceeded. The preceding dose level will be the MTD, provided 6 patients have been entered at this level and no more than one has experienced a DLT. DLTs for siplizumab was defined as infusional grade 3 non-hematologic toxicity lasting longer than 6 hours after the infusion, any grade 4 non-hematologic toxicity, or the development of an Epstein Barr Virus (EBV)-related lymphoproliferative disorder (LPD). Expected toxicities of dose-adjusted EPOCH-R and grade 3 laboratory adverse events (AEs) were not considered to be DLTs.</description>
+          <units>mg/kg</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With a Response to Therapy</title>
+        <description>Response was assessed by the International Workshop to Standardize Response Criteria for Non-Hodgkin's Lymphoma. Complete Remission was defined as the disappearance of all detectable clinical and radiographic evidence of disease, disappearance of all disease related symptoms if present before therapy, and normalization of those biochemical abnormalities (for example lactate dehydrogenase (LDH)) definitely assignable to the lymphoma. Complete response unconfirmed was defined as a residual node greater than 1.5 cm, with a decrease by greater than 75 percent in the sum of the products of the perpendicular diameters (SPD) of all measured lymph nodes. Partial Response was defined as a ≥ 50% decreased in SPD of 6 largest dominant nodes or nodal masses. Relapsed disease was defined as the appearance of any new lesion or increase by ≥50% in the size of the previously identified sites. Progressive disease was defined as a ≥50% increase from nadir in the SPD.</description>
+        <time_frame>Response assessments were performed after the fourth and sixth cycle of therapy, at therapy completion, and every 3 months for year 1, four months for year 2, 6 months for years 3-5, and annually thereafter, up to 5 years.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Cohort 1 - 3.4 mg/kg</title>
+            <description>3.4 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Cohort 2 - 4.8 mg/kg</title>
+            <description>4.8 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Cohort 3 - 8.5 mg/kg</title>
+            <description>8.5 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+          <group group_id="O4">
+            <title>Cohort 4 - 15 mg/kg</title>
+            <description>15 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With a Response to Therapy</title>
+          <description>Response was assessed by the International Workshop to Standardize Response Criteria for Non-Hodgkin's Lymphoma. Complete Remission was defined as the disappearance of all detectable clinical and radiographic evidence of disease, disappearance of all disease related symptoms if present before therapy, and normalization of those biochemical abnormalities (for example lactate dehydrogenase (LDH)) definitely assignable to the lymphoma. Complete response unconfirmed was defined as a residual node greater than 1.5 cm, with a decrease by greater than 75 percent in the sum of the products of the perpendicular diameters (SPD) of all measured lymph nodes. Partial Response was defined as a ≥ 50% decreased in SPD of 6 largest dominant nodes or nodal masses. Relapsed disease was defined as the appearance of any new lesion or increase by ≥50% in the size of the previously identified sites. Progressive disease was defined as a ≥50% increase from nadir in the SPD.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3"/>
+                <count group_id="O2" value="3"/>
+                <count group_id="O3" value="3"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Complete Remission</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Complete Response Unconfirmed</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Partial Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Relapsed Disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Progressive Disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Stable Disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Not Evaluable</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Progression Free Survival (PFS)</title>
+        <description>Progression was assessed by the International Workshop to Standardize Response Criteria for Non-Hodgkin's Lymphoma. Progression is defined as ≥50% increase from nadir in the sum of the products of the perpendicular diameters (SPD) of any previously identified abnormal nodes for Partial Response's or non-responders. Progression-free survival (PFS) was determined from the on-study date until date of progression or last follow-up. The probability of PFS as a function of time was estimated by the Kaplan-Meier method.</description>
+        <time_frame>On-study date until date of progression or last follow up, approximately 7 months.</time_frame>
+        <population>Data collected from participants receiving different dose levels were combined and analyzed as a single Arm/Group as pre-specified in the study protocol.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>All Participants</title>
+            <description>All participants who received 3.4 mg/kg, 4.8 mg/kg, 8.5 mg/kg and 15 mg/kg siplizumab given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Progression Free Survival (PFS)</title>
+          <description>Progression was assessed by the International Workshop to Standardize Response Criteria for Non-Hodgkin's Lymphoma. Progression is defined as ≥50% increase from nadir in the sum of the products of the perpendicular diameters (SPD) of any previously identified abnormal nodes for Partial Response's or non-responders. Progression-free survival (PFS) was determined from the on-study date until date of progression or last follow-up. The probability of PFS as a function of time was estimated by the Kaplan-Meier method.</description>
+          <population>Data collected from participants receiving different dose levels were combined and analyzed as a single Arm/Group as pre-specified in the study protocol.</population>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.8" lower_limit="2.9" upper_limit="27.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival (OS)</title>
+        <description>Overall survival was determined from the on-study date until date of progression or last follow up. The probability of OS as a function of time was estimated by the Kaplan-Meier method.</description>
+        <time_frame>On study date until date of death or last follow up, approximately 12 months.</time_frame>
+        <population>Data collected from participants receiving different dose levels were combined and analyzed as a single Arm/Group as pre-specified in the study protocol.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>All Participants</title>
+            <description>All participants who received 3.4 mg/kg, 4.8 mg/kg, 8.5 mg/kg and 15 mg/kg siplizumab given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival (OS)</title>
+          <description>Overall survival was determined from the on-study date until date of progression or last follow up. The probability of OS as a function of time was estimated by the Kaplan-Meier method.</description>
+          <population>Data collected from participants receiving different dose levels were combined and analyzed as a single Arm/Group as pre-specified in the study protocol.</population>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12.1" lower_limit="6.7" upper_limit="30.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Number of Dose-Limiting Toxicities (DLT)</title>
+        <description>DLTs for siplizumab was defined as infusional grade 3 non-hematologic toxicity lasting longer than 6 hours after the infusion, any grade 4 non-hematologic toxicity, or the development of an EBV-related lymphoproliferative disorder (LPD). Expected toxicities of dose-adjusted etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH-R) and grade 3 laboratory AEs were not considered to be DLTs.</description>
+        <time_frame>First 30 days after treatment initiation.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Cohort 1 - 3.4 mg/kg</title>
+            <description>3.4 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+          <group group_id="O2">
+            <title>Cohort 2 - 4.8 mg/kg</title>
+            <description>4.8 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+          <group group_id="O3">
+            <title>Cohort 3 - 8.5 mg/kg</title>
+            <description>8.5 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+          <group group_id="O4">
+            <title>Cohort 4 - 15 mg/kg</title>
+            <description>15 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Dose-Limiting Toxicities (DLT)</title>
+          <description>DLTs for siplizumab was defined as infusional grade 3 non-hematologic toxicity lasting longer than 6 hours after the infusion, any grade 4 non-hematologic toxicity, or the development of an EBV-related lymphoproliferative disorder (LPD). Expected toxicities of dose-adjusted etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH-R) and grade 3 laboratory AEs were not considered to be DLTs.</description>
+          <units>Dose Limiting Toxicities</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3"/>
+                <count group_id="O2" value="3"/>
+                <count group_id="O3" value="3"/>
+                <count group_id="O4" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Date treatment consent signed until 30 days after removal from study treatment or until off study, whichever comes first, approximately 22 weeks.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Cohort 1 - 3.4 mg/kg</title>
+          <description>3.4 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+        </group>
+        <group group_id="E2">
+          <title>Cohort 2 - 4.8 mg/kg</title>
+          <description>4.8 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+        </group>
+        <group group_id="E3">
+          <title>Cohort 3 - 8.5 mg/kg</title>
+          <description>8.5 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+        </group>
+        <group group_id="E4">
+          <title>Cohort 4 - 15 mg/kg</title>
+          <description>15 mg/kg siplizumab was given on day 1 of each cycle followed by etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin and rituximab (EPOCH) (combo chemo) on days 1-5 for 21 days.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>CTCAE 3.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E4" subjects_affected="4" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E3" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fever (in the absence of neutropenia, where neutropenia is defined as ANC &lt;1.0 x 10e9/L)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Infection</sub_title>
+                <description>(documented clinically or microbiologically) with Grade 3 or 4 neutrophils (ANC &lt;1.0 x 10e9/L)::Blood</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Febrile neutropenia</sub_title>
+                <description>(fever of unknown origin without clinically or microbiologically documented infection)(ANC &lt;1.0 x 10e9/L, fever &gt;=38.5 degrees C)</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="3" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fracture</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>CTCAE 3.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E3" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E4" subjects_affected="5" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Leukocytes (total WBC)</sub_title>
+                <counts group_id="E1" events="14" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E2" events="20" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E3" events="12" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E4" events="23" subjects_affected="5" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Lymphopenia</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E2" events="16" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E3" events="15" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E4" events="22" subjects_affected="5" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Neutrophils/granulocytes (ANC/AGC)</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E2" events="14" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E3" events="10" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E4" events="20" subjects_affected="5" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Platelets</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E2" events="15" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E3" events="10" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E4" events="15" subjects_affected="5" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>CD4 count</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="3" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Lymph node</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Edema: head and neck</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Edema: limb</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Supraventricular and nodal arrhythmia::Sinus tachycardia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Supraventricular and nodal arrhythmia::Supraventricular tachycardia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Cardiac troponin I (cTnI)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Palpitations</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pain::Middle ear</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ocular surface disease</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Eye</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anorexia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="6" subjects_affected="3" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Heartburn/dyspepsia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="3" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Mucositis/stomatitis (clinical exam)::Oral cavity</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E4" events="6" subjects_affected="4" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Mucositis/stomatitis (functional/symptomatic)::Oral cavity</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="3" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Abdomen NOS</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Oral cavity</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Taste alteration (dysgeusia)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Dysphagia (difficulty swallowing)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Hemorrhoids</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Dental/teeth/peridontal</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Hemorrhage, GI::Oral cavity</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue (asthenia, lethargy, malaise)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="5" subjects_affected="5" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Fever (in the absence of neutropenia, where neutropenia is defined as ANC &lt;1.0 x 10e9/L)</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="3" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="9" subjects_affected="4" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Pain NOS</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Rigors/chills</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Sweating (diaphoresis)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Weight loss</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Allergic rhinitis (including sneezing, nasal stuffiness, postnasal drip)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Cytokine release syndrome/acute infusion reaction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Febrile neutropenia</sub_title>
+                <description>(fever of unknown origin without clinically or microbiologically documented infection)(ANC &lt;1.0 x 10e9/L, fever &gt;=38.5 degrees C)</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="5" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E4" events="4" subjects_affected="3" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Infection</sub_title>
+                <description>(documented clinically or microbiologically) with Grade 3 or 4 neutrophils (ANC &lt;1.0 x 10e9/L)::Urinary tract NOS</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Infection with normal ANC or Grade 1 or 2 neutrophils::Urinary tract NOS</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Infection (documented clinically or microbiologically)</sub_title>
+                <description>with Grade 3 or 4 neutrophils (ANC &lt;1.0 x 10e9/L)::Catheter-related</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Infection with normal ANC or Grade 1 or 2 neutrophils::Abdomen NOS</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Infection with normal ANC or Grade 1 or 2 neutrophils::Middle ear (otitis media)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Infection (documented clinically or microbiologically) with Grade 3 or 4 neutrophils</sub_title>
+                <description>(ANC &lt;1.0 x 10e9/L)::Blood</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Infection with normal ANC or Grade 1 or 2 neutrophils::Blood</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Alkaline phosphatase</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="3" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Bilirubin (hyperbilirubinemia)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Calcium, serum-low (hypocalcemia)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Glucose, serum-high (hyperglycemia)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Hemoglobin</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E2" events="18" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E3" events="12" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E4" events="20" subjects_affected="5" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Magnesium, serum-low (hypomagnesemia)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="2" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Potassium, serum-low (hypokalemia)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="2" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Sodium, serum-low (hyponatremia)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Uric acid, serum-high (hyperuricemia)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>ALT, SGPT (serum glutamic pyruvic transaminase)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>AST, SGOT(serum glutamic oxaloacetic transaminase)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="3" subjects_affected="3" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Creatinine</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Phosphate, serum-low (hypophosphatemia)</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E3" events="4" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E4" events="6" subjects_affected="3" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Albumin, serum-low (hypoalbuminemia)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="9" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pain::Back</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Bone</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="6" subjects_affected="4" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Muscle</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Extremity-limb</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Joint</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="3" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="4" subjects_affected="3" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Extrapyramidal/involuntary movement/restlessness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Laryngeal nerve dysfunction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Mood alteration::Anxiety</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Neuropathy: motor</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Neuropathy: sensory</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="4" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E4" events="5" subjects_affected="4" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Head/headache</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="7" subjects_affected="4" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Syncope (fainting)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Confusion</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Tremor</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hemorrhage, GU::Urethra</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Urinary retention (including neurogenic bladder)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Cystitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Chest/thorax NOS</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Throat/pharynx/larynx</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Hemorrhage, pulmonary/upper respiratory::Nose</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Chest wall</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="2" subjects_affected="2" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dry skin</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Hair loss/alopecia (scalp or body)</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E4" events="3" subjects_affected="3" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pain::Skin</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Pruritus/itching</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Nail changes</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Rash/desquamation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E3" events="3" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Photosensitivity</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Rash: dermatitis associated with radiation::Chemoradiation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Thrombosis/embolism (vascular access-related)</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Wyndham Wilson</name_or_title>
+      <organization>National Cancer Institute</organization>
+      <phone>240-760-6092</phone>
+      <email>wyndham_wilson@nih.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

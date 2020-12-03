@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="159">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02495454</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FIL_GAEL</org_study_id>
+    <secondary_id>2014-005697-10</secondary_id>
+    <nct_id>NCT02495454</nct_id>
+  </id_info>
+  <brief_title>GA101-miniCHOP Regimen for the Treatment of Elderly Unfit Patients With Diffuse Large B-cell Non-Hodgkin's Lymphoma</brief_title>
+  <acronym>FIL_GAEL</acronym>
+  <official_title>GA101-miniCHOP Regimen for the Treatment of Elderly Unfit Patients With Diffuse Large B-cell Non-Hodgkin's Lymphoma A Phase II Study of the Fondazione Italiana Linfomi (FIL)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fondazione Italiana Linfomi ONLUS</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fondazione Italiana Linfomi ONLUS</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      GA101-miniCHOP regimen for the treatment of elderly unfit patients with diffuse large B-cell&#xD;
+      non-Hodgkin's lymphoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Considering that the treatment of elderly unfit patients with DLBCL cannot be based on a full&#xD;
+      course of R-CHOP (Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, Prednisone), and&#xD;
+      that using a less intense R-miniCHOP (an attenuated version of the standard R-CHOP:&#xD;
+      Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, Prednisone) combination an acceptable&#xD;
+      cure rate can be achieved this study is designed to try to improve the cure rate in unfit&#xD;
+      patients with DLBCL (Diffuse Large B Cell Lymphoma) by adopting the R-miniCHOP scheme&#xD;
+      substituting Rituximab with the more active GA101 monoclonal antibody. The study hypothesis&#xD;
+      is that a higher activity of the treatment can be achieved without modifying the cytotoxic&#xD;
+      part of the treatment but using a more active immunotherapy. Differently from the previous&#xD;
+      experience with R-miniCHOP eligible patient are not only identified using anagraphic criteria&#xD;
+      but adopting CGA (Comprehensive Geriatric Assessment) as part of initial assessment and&#xD;
+      considering as eligible unfit patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Primary objective not obtained after interim analysis&#xD;
+  </why_stopped>
+  <start_date type="Actual">August 25, 2015</start_date>
+  <completion_date type="Actual">March 22, 2017</completion_date>
+  <primary_completion_date type="Actual">March 22, 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Complete Response Rate (CRR). Based a Central Independent Review Committee Considering Use the Conventional CT Scan Images.</measure>
+    <time_frame>Up to 36 months.</time_frame>
+    <description>Complete Response Rate after 10 infusions of GA101 and 6 cycles of miniCHOP. Complete Remission (CR): Complete disappearance of all detectable clinical and radiographic evidence of disease and disappearance of all disease-related symptoms if present before therapy, normalization of biochemistry abnormalities. If the bone marrow was involved by lymphoma before treatment, the infiltrate must be cleared on repeat bone marrow aspirate and biopsy of the same site. Partial disease (PR): &gt;= 50% decrease in node diameter of the six largest dominant nodes or nodal masses and no new sites of disease; Stable disease (SD): is defined as less than a PR but is not progressive disease. Progession disease (PD): &gt;50% increase diameter of node from nadir of any previously identified abnormal node nonresponders, and/or appearance of any new lesion.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events (AEs)</measure>
+    <time_frame>Up to 36 months</time_frame>
+    <description>Rate of Adverse Events. Although was not defined a formal threshold, in this section we reported the summary of frequencies of maximum CTCAE observed in patients. Each patient was counted only once within the AE terms during the therapy. If, during the therapy the patient experiences more than one AE, only the AE with the greatest intensity was included in the summary.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Partial Response Rate (PRR)</measure>
+    <time_frame>Up to 36 months</time_frame>
+    <description>Partial Response Rate (PRR): patients in Partial Response after induction therapy.&#xD;
+Frequency of PRR already reported in the table of principal end-point.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ORR (Overall Response Rate)</measure>
+    <time_frame>Up to 36 months</time_frame>
+    <description>ORR (Overall Response Rate): sum of patiens with Complete or Partial response after the induction therapy.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS (Overall Survival)</measure>
+    <time_frame>Up to 36 months</time_frame>
+    <description>OS (Overall Survival): defined as the time from the date of treatment start into the study until the date of death irrespective of cause. Patients who have not died at the time of end of the whole study, and patients who are lost to follow up, will be censored at the date of the last contact.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS (Progression Free Survival)</measure>
+    <time_frame>Up to 36 months</time_frame>
+    <description>PFS (Progression Free Survival): defined as the time from entry into the study until lymphoma relapse/ progression or death as a result of any cause. Responding patients, patients who are lost to follow up, who withdrawal the consent or drop-out due to adverse event will be censored at their last assessment date. Patients died due to tumor will be considered in progression. Patients died for any other cause will be censored to the death date.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activities of Daily Living (ADL)</measure>
+    <time_frame>Up to 36 months</time_frame>
+    <description>Change in Activities of daily living score. The score ranging from 0 (bad performance) to 6 (good performance)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Instrumental Activities of Daily Living (IADL)</measure>
+    <time_frame>Up to 36 months</time_frame>
+    <description>Change in Instrumental Activities of Daily Living score. The score ranging from 0 (bad performance) to 8 (good performance).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative Illness Rating Scale (CIRS)</measure>
+    <time_frame>Up to 36 months</time_frame>
+    <description>Change in Cumulative Illness Rating Scale. The grading of comorbidity ranging from 0 (absent) to 4 (severe).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Questionnaire for Quality of Life (EORTC QLQ C30)</measure>
+    <time_frame>Up to 36 months</time_frame>
+    <description>Change in quality of life (QoL)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">34</enrollment>
+  <condition>CD20 Positive Diffuse Large B-cell Lymphoma</condition>
+  <condition>Elderly Unfit Patients</condition>
+  <arm_group>
+    <arm_group_label>Ga101-miniCHOP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>6 courses of GA101-miniCHOP regimen and 2 additional infusions of GA101, every 21 days (for a total of 6 courses of miniCHOP and 10 infusions of GA101).&#xD;
+GA101-miniCHOP regimen:&#xD;
+Cycle 1 GA101: 1000 mg day 1, day 8 and day 15, iv Cyclophosphamide: 400 mg/mq, day 1, iv Doxorubicin: 25 mg/mq, day 1, iv Vincristine: 1 mg, day 1, iv Prednisone: 40 mg/mq, days 1-5, os&#xD;
+Cycles 2-6 GA101: 1000 mg day 1, iv Cyclophosphamide: 400 mg/mq, day 1, iv Doxorubicin: 25 mg/mq, day 1, iv Vincristine: 1 mg, day 1, iv Prednisone: 40 mg/mq, days 1-5, os&#xD;
+Two additional infusions of GA101: 1000 mg day 1, iv, every 21 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ga101</intervention_name>
+    <arm_group_label>Ga101-miniCHOP</arm_group_label>
+    <other_name>Obinutuzumab</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Histologically proven CD20 positive Diffuse Large B-cell Lymphoma and Follicular grade&#xD;
+             III B lymphoma, according to WHO (World Health Organization) classification (local&#xD;
+             pathologist)&#xD;
+&#xD;
+          2. Age ≥ 65 years&#xD;
+&#xD;
+          3. No previous treatment&#xD;
+&#xD;
+          4. CGA assessment (Comprehensive Geriatric Assessment) performed before starting&#xD;
+             treatment&#xD;
+&#xD;
+          5. Unfit patients defined as follows:&#xD;
+&#xD;
+             Age &gt; 80 years with Fit profile, i.e. ADL (Activity of Daily Living) =6 residual&#xD;
+             functions IADL (Instrumental Activity of Daily Living) =8 residual functions CIRS&#xD;
+             (Cumulative Illness Rating Scale): no comorbidity of grade 3-4 and &lt;5 of grade 2 or&#xD;
+             Age &lt; 80 with Unfit profile, i.e ADL(Activity of Daily Living) &gt; 5 residual functions&#xD;
+             IADL (Instrumental Activity of Daily Living) &gt; 6 residual functions CIRS (Cumulative&#xD;
+             Illness Rating Scale): no comorbidity of grade 3-4 and 5-8 co-morbidities of grade 2&#xD;
+&#xD;
+          6. Ann Arbor Stage I with bulky, II-IV&#xD;
+&#xD;
+          7. At least one bi-dimensionally measurable lesion defined as &gt; 1.5 cm in its largest&#xD;
+             dimension on CT scan&#xD;
+&#xD;
+          8. ECOG (Eastern Cooperative Oncology Group) performance status of 0, 1, or 2&#xD;
+&#xD;
+          9. Adequate hematologic function (unless caused by bone marrow infiltrate), defined as&#xD;
+             follows:&#xD;
+&#xD;
+             Hemoglobin ≥ 10 g/dL Absolute neutrophil count ≥ 1.5 x 109/L Platelet count ≥ 100 x&#xD;
+             109/L&#xD;
+&#xD;
+         10. LVEF (Left Ventricular Ejection Fraction) &gt;50%&#xD;
+&#xD;
+         11. Ability and willingness to comply with the study protocol procedure&#xD;
+&#xD;
+         12. Life expectancy &gt; 6 months&#xD;
+&#xD;
+         13. Accessibility of patient for treatment and follow up&#xD;
+&#xD;
+         14. Written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of severe allergic or anaphylactic reactions to humanized or murine monoclonal&#xD;
+             antibodies or known sensitivity or allergy to murine products&#xD;
+&#xD;
+          2. Contraindication to any of the individual components of CHOP (Cyclophosphamide,&#xD;
+             Doxorubicin, Vincristine, Prednisone), including prior receipt of anthracyclines&#xD;
+&#xD;
+          3. History of other malignancies within 5 years prior to study entry except for&#xD;
+             adequately treated carcinoma in situ of the cervix or basal or squamous cell skin&#xD;
+             cancer&#xD;
+&#xD;
+          4. Stage I without bulky&#xD;
+&#xD;
+          5. Patients with transformed lymphoma&#xD;
+&#xD;
+          6. Prior therapy for DLBCL (Diffuse Large B Cell Lymphoma), with the exception of nodal&#xD;
+             biopsy or local irradiation&#xD;
+&#xD;
+          7. Previous exposure to cytotoxic agents&#xD;
+&#xD;
+          8. Suspect or clinical evidence of CNS (Central Nervous System) involvement by lymphoma&#xD;
+&#xD;
+          9. HBsAg (Hepatitis B surface antigen), HCV (Hepatitis C Virus) or HIV (Human&#xD;
+             Immunodeficiency Virus) positivity; isolated HBcAb (Hepatitis B surface antibody)&#xD;
+             positivity is accepted only with concomitant treatment with Lamivudine&#xD;
+&#xD;
+         10. AST /ALT (Aspartate Aminotransferase/Alanine Aminotransferase)&gt; twice upper the normal&#xD;
+             range; bilirubin &gt; twice upper the normal range; serum creatinine &gt; 2.5 mg /dl (unless&#xD;
+             these abnormalities were related to the lymphoma)&#xD;
+&#xD;
+         11. Evidence of any severe active acute or chronic infection&#xD;
+&#xD;
+         12. Concurrent co-morbid medical condition which might exclude administration of full dose&#xD;
+             chemotherapy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francesco Merli, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ematologia - IRCCS Arcispedale Santa Maria Nuova</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>A.O. Spedali Civili</name>
+      <address>
+        <city>Brescia</city>
+        <state>BS</state>
+        <zip>25100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AUSL di Ravenna</name>
+      <address>
+        <city>Ravenna</city>
+        <state>RA</state>
+        <zip>48100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Asmn-Irccs</name>
+      <address>
+        <city>Reggio Emilia</city>
+        <state>RE</state>
+        <zip>43123</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ematologia 1U - AO Città della Salute e della Scienza</name>
+      <address>
+        <city>Torino</city>
+        <state>TO</state>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O. S. Maria di Terni</name>
+      <address>
+        <city>Terni</city>
+        <state>TR</state>
+        <zip>05100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O. SS. Antonio e Biagio e C. Arrigo</name>
+      <address>
+        <city>Alessandria</city>
+        <zip>15121</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O. Universitaria Ospedali Riuniti - Ospedale Umberto I Di Ancona</name>
+      <address>
+        <city>Ancona</city>
+        <zip>60126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O. Ospedale Degli Infermi</name>
+      <address>
+        <city>Biella</city>
+        <zip>13900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Area Vasta Romagna e IRST</name>
+      <address>
+        <city>Meldola (FC)</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS, Istituto Nazionale dei Tumori</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O. Universitaria Policlinico Di Modena</name>
+      <address>
+        <city>Modena</city>
+        <zip>41124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SCDU Ematologia - Università del Piemonte Orientale</name>
+      <address>
+        <city>Novara</city>
+        <zip>28100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Irccs Istituto Oncologico Veneto (Iov)</name>
+      <address>
+        <city>Padova</city>
+        <zip>35128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oncoematologia e TMO Dopartimento Oncologia La Maddalena</name>
+      <address>
+        <city>Palermo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ausl Di Rimini</name>
+      <address>
+        <city>Rimini</city>
+        <zip>47924</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ematologia - OSPEDALE DI CIRCOLO E FONDAZIONE MACCHI</name>
+      <address>
+        <city>Varese</city>
+        <zip>21100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>June 8, 2015</study_first_submitted>
+  <study_first_submitted_qc>July 8, 2015</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 13, 2015</study_first_posted>
+  <results_first_submitted>August 20, 2020</results_first_submitted>
+  <results_first_submitted_qc>November 4, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 5, 2020</results_first_posted>
+  <last_update_submitted>November 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Lymphoma, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Obinutuzumab</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>September 29, 2014</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/54/NCT02495454/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 30, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/54/NCT02495454/SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>One case excluded for violation of inclusion criteria (transformed lymphoma)</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Single Arm</title>
+          <description>6 courses of GA101-miniCHOP regimen and 2 additional infusions of GA101, every 21 days (for a total of 6 courses of miniCHOP and 10 infusions of GA101) miniCHOP: an attenuated version of the standard CHOP, Cyclophosphamide, Doxorubicin, Vincristine, Prednisone</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="34"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="33">One case excluded for violation of inclusion criteria (transformed lymphoma)</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Single Arm</title>
+          <description>6 courses of GA101-miniCHOP regimen and 2 additional infusions of GA101, every 21 days (for a total of 6 courses of miniCHOP and 10 infusions of GA101)</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="33"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="82" lower_limit="79" upper_limit="84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Italy</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Hemoglobin</title>
+          <units>g/dL</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12.9" lower_limit="11.0" upper_limit="13.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Stage</title>
+          <description>Ann Arbor Staging:&#xD;
+Stage I: nvolvement of a single lymph node region or lymphoid structure. Stage II: Involvement of two or more lymph node regions on the same side of the diaphragm.&#xD;
+Stage III: Involvement of lymph regions or structures on both sides of the diaphragm.&#xD;
+Stage IV: Involvement of extranodal site(s) beyond that designated as an involvement of a single, extranodal site contiguous or proximal to known nodal site.&#xD;
+Bone marrow or liver involvement will always be considered as stage IV.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>II</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>III</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>IV</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Bone Marrow Involvement</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Negative</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Positive</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Symptoms</title>
+          <description>The presence of (a) unexplained weight loss of more than 10% of the body weight during the 6 months before initial staging investigation and/or (b) unexplained, persistent, or recurrent fever with temperatures above 38 C during the previous month and/or (c) recurrent drenching night sweats during the previous months is denoted by the suffix letter 'B'. 'A' indicates the absence of these symptoms</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Absence of symptoms</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Presence of symptoms</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>ECOG PS (Eastern Cooperative Oncology Group Performance Status)</title>
+          <description>ECOG Performance Status grade:&#xD;
+0 Able to carry out all normal activity without restriction&#xD;
+Restricted in physically strenuous activity but ambulatory and able to carry out light work&#xD;
+Ambulatory and capable of all self-care but unable to carry out any work; up and about more than50% of waking hours&#xD;
+Capable of only limited self-care; confined to bed or chair more than 50% of waking hours&#xD;
+Completely disabled; cannot carry on any self-care; totally confined to bed or chair</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>0</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>1</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2-3</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>LDH (lactate dehydrogenase)</title>
+          <description>Ratio between measured level of LDH with the upper limit of normality. LDH levles with ratio &lt;=1 was considered normal, LDH levels with ratio &gt;1 was considered elevated.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;= Upper Limit</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt; Upper Limit</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>International Prognostic Index</title>
+          <description>International Prognostic Index (IPI): ranging fron 0 to 5. In this study was grouped 0-1 Low risk, 2 Intermediate risk, 3/5 High risk.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>0-1</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3/5</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Comprehensive Geriatric Assessment</title>
+          <description>Comprehensive Geriatric Assessment (CGA):&#xD;
+FIT patients, without any co-morbidity; UNFIT patients, with mild co-morbidities; FRAIL patients, with severe co-morbidities.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>UNFIT</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>FRAIL</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Complete Response Rate (CRR). Based a Central Independent Review Committee Considering Use the Conventional CT Scan Images.</title>
+        <description>Complete Response Rate after 10 infusions of GA101 and 6 cycles of miniCHOP. Complete Remission (CR): Complete disappearance of all detectable clinical and radiographic evidence of disease and disappearance of all disease-related symptoms if present before therapy, normalization of biochemistry abnormalities. If the bone marrow was involved by lymphoma before treatment, the infiltrate must be cleared on repeat bone marrow aspirate and biopsy of the same site. Partial disease (PR): &gt;= 50% decrease in node diameter of the six largest dominant nodes or nodal masses and no new sites of disease; Stable disease (SD): is defined as less than a PR but is not progressive disease. Progession disease (PD): &gt;50% increase diameter of node from nadir of any previously identified abnormal node nonresponders, and/or appearance of any new lesion.</description>
+        <time_frame>Up to 36 months.</time_frame>
+        <population>Patients who received at last 1 cycle of treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Single Arm</title>
+            <description>6 courses of GA101-miniCHOP regimen and 2 additional infusions of GA101, every 21 days (for a total of 6 courses of miniCHOP and 10 infusions of GA101)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Complete Response Rate (CRR). Based a Central Independent Review Committee Considering Use the Conventional CT Scan Images.</title>
+          <description>Complete Response Rate after 10 infusions of GA101 and 6 cycles of miniCHOP. Complete Remission (CR): Complete disappearance of all detectable clinical and radiographic evidence of disease and disappearance of all disease-related symptoms if present before therapy, normalization of biochemistry abnormalities. If the bone marrow was involved by lymphoma before treatment, the infiltrate must be cleared on repeat bone marrow aspirate and biopsy of the same site. Partial disease (PR): &gt;= 50% decrease in node diameter of the six largest dominant nodes or nodal masses and no new sites of disease; Stable disease (SD): is defined as less than a PR but is not progressive disease. Progession disease (PD): &gt;50% increase diameter of node from nadir of any previously identified abnormal node nonresponders, and/or appearance of any new lesion.</description>
+          <population>Patients who received at last 1 cycle of treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Complete Response</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Partial Response</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Stable Disease</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Progression Disease</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Assessed</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Adverse Events (AEs)</title>
+        <description>Rate of Adverse Events. Although was not defined a formal threshold, in this section we reported the summary of frequencies of maximum CTCAE observed in patients. Each patient was counted only once within the AE terms during the therapy. If, during the therapy the patient experiences more than one AE, only the AE with the greatest intensity was included in the summary.</description>
+        <time_frame>Up to 36 months</time_frame>
+        <population>Patients who received at least 1 cycle of treatment.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Single Arm</title>
+            <description>6 courses of GA101-miniCHOP regimen and 2 additional infusions of GA101, every 21 days (for a total of 6 courses of miniCHOP and 10 infusions of GA101)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Adverse Events (AEs)</title>
+          <description>Rate of Adverse Events. Although was not defined a formal threshold, in this section we reported the summary of frequencies of maximum CTCAE observed in patients. Each patient was counted only once within the AE terms during the therapy. If, during the therapy the patient experiences more than one AE, only the AE with the greatest intensity was included in the summary.</description>
+          <population>Patients who received at least 1 cycle of treatment.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>CTCAE Grade 0</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>CTCAE grade 1-2</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>CTCAE grade &gt;2</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Partial Response Rate (PRR)</title>
+        <description>Partial Response Rate (PRR): patients in Partial Response after induction therapy.&#xD;
+Frequency of PRR already reported in the table of principal end-point.</description>
+        <time_frame>Up to 36 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Single Arm</title>
+            <description>6 courses of GA101-miniCHOP regimen and 2 additional infusions of GA101, every 21 days (for a total of 6 courses of miniCHOP and 10 infusions of GA101) miniCHOP: an attenuated version of the standard CHOP, Cyclophosphamide, Doxorubicin, Vincristine, Prednisone</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Partial Response Rate (PRR)</title>
+          <description>Partial Response Rate (PRR): patients in Partial Response after induction therapy.&#xD;
+Frequency of PRR already reported in the table of principal end-point.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Partial Remission</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not in partial remission</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>ORR (Overall Response Rate)</title>
+        <description>ORR (Overall Response Rate): sum of patiens with Complete or Partial response after the induction therapy.</description>
+        <time_frame>Up to 36 months</time_frame>
+        <population>Patients who received at leat 1 cycle of treatment</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Single Arm</title>
+            <description>6 courses of GA101-miniCHOP regimen and 2 additional infusions of GA101, every 21 days (for a total of 6 courses of miniCHOP and 10 infusions of GA101)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>ORR (Overall Response Rate)</title>
+          <description>ORR (Overall Response Rate): sum of patiens with Complete or Partial response after the induction therapy.</description>
+          <population>Patients who received at leat 1 cycle of treatment</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>ORR</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Less than ORR</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>OS (Overall Survival)</title>
+        <description>OS (Overall Survival): defined as the time from the date of treatment start into the study until the date of death irrespective of cause. Patients who have not died at the time of end of the whole study, and patients who are lost to follow up, will be censored at the date of the last contact.</description>
+        <time_frame>Up to 36 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Single Arm</title>
+            <description>6 courses of GA101-miniCHOP regimen and 2 additional infusions of GA101, every 21 days (for a total of 6 courses of miniCHOP and 10 infusions of GA101)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>OS (Overall Survival)</title>
+          <description>OS (Overall Survival): defined as the time from the date of treatment start into the study until the date of death irrespective of cause. Patients who have not died at the time of end of the whole study, and patients who are lost to follow up, will be censored at the date of the last contact.</description>
+          <units>Probability at 24 months</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.69" lower_limit="0.50" upper_limit="0.82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>PFS (Progression Free Survival)</title>
+        <description>PFS (Progression Free Survival): defined as the time from entry into the study until lymphoma relapse/ progression or death as a result of any cause. Responding patients, patients who are lost to follow up, who withdrawal the consent or drop-out due to adverse event will be censored at their last assessment date. Patients died due to tumor will be considered in progression. Patients died for any other cause will be censored to the death date.</description>
+        <time_frame>Up to 36 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Single Arm</title>
+            <description>6 courses of GA101-miniCHOP regimen and 2 additional infusions of GA101, every 21 days (for a total of 6 courses of miniCHOP and 10 infusions of GA101)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>PFS (Progression Free Survival)</title>
+          <description>PFS (Progression Free Survival): defined as the time from entry into the study until lymphoma relapse/ progression or death as a result of any cause. Responding patients, patients who are lost to follow up, who withdrawal the consent or drop-out due to adverse event will be censored at their last assessment date. Patients died due to tumor will be considered in progression. Patients died for any other cause will be censored to the death date.</description>
+          <units>Probability at 24 months</units>
+          <param>Mean</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="33"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.53" lower_limit="0.34" upper_limit="0.68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Activities of Daily Living (ADL)</title>
+        <description>Change in Activities of daily living score. The score ranging from 0 (bad performance) to 6 (good performance)</description>
+        <time_frame>Up to 36 months</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Instrumental Activities of Daily Living (IADL)</title>
+        <description>Change in Instrumental Activities of Daily Living score. The score ranging from 0 (bad performance) to 8 (good performance).</description>
+        <time_frame>Up to 36 months</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Cumulative Illness Rating Scale (CIRS)</title>
+        <description>Change in Cumulative Illness Rating Scale. The grading of comorbidity ranging from 0 (absent) to 4 (severe).</description>
+        <time_frame>Up to 36 months</time_frame>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Questionnaire for Quality of Life (EORTC QLQ C30)</title>
+        <description>Change in quality of life (QoL)</description>
+        <time_frame>Up to 36 months</time_frame>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>50 months</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Single Arm</title>
+          <description>6 courses of GA101-miniCHOP regimen and 2 additional infusions of GA101, every 21 days (for a total of 6 courses of miniCHOP and 10 infusions of GA101).&#xD;
+NOTE: One SAE (atrial fibrillation) was recorded in patient excluded from analysis (not eligible for transformed lymphoma), exit before starting the 1st cycle of treatment.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>CTCAE (3.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Congestive heart failure</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="2" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>BCPO-Heart failure</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Femur fracture</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="2" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>-sepsis</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="4" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Lumbar pain, vertebral collapse</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Breast cancer</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="3" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Non small cell lung cancer</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="3" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>CTCAE (3.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="30" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title vocab="MedDRA (10.0)">Anemia</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="6" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Leukopenia</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="4" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="15" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="11" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cardiac disorders</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="5" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal disorders</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="12" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>General disorders</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="6" subjects_at_risk="33"/>
+              </event>
+              <event>
+                <sub_title>Other</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="8" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hepatobiliary disorders</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="2" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Infections</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="7" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Injury</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="2" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Investigations</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="3" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Metabolism</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="8" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Musculoskeletal</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="8" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Neoplasm</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="2" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nervous system</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="7" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Renal</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="2" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Respiratory</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="5" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Vascular</sub_title>
+                <counts group_id="E1" events="30" subjects_affected="1" subjects_at_risk="33"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The Sponsor, in accordance with art.5 of DM, minist. decree (Feb8,2013), guarantees the publication of the results of the study without any constraints and ensuring all the participating centres a proportional visibility to the actual participation. The single centre will be able to publish partial data of patients treated at the centre after the publication of the global results, or 24 months after the last patient's enrolment date, regardless of which centre the last patient was recruited at.</restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Luigi Marcheselli - FIL statistician</name_or_title>
+      <organization>Fondazione Italiana Linfomi ONLUS</organization>
+      <phone>059 4223873</phone>
+      <email>lmarcheselli@filinf.it</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

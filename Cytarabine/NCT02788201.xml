@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="78">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on November 10, 2020</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT02788201</url>
+  </required_header>
+  <id_info>
+    <org_study_id>160121</org_study_id>
+    <secondary_id>16-C-0121</secondary_id>
+    <nct_id>NCT02788201</nct_id>
+  </id_info>
+  <brief_title>Genomic Based Assignment of Therapy in Advanced Urothelial Carcinoma</brief_title>
+  <official_title>A Pilot Clinical Trial of Genomic Based Assignment of Therapy in Advanced Urothelial Carcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Advanced urothelial cancer has no cure. But only a few chemotherapy drugs have been tested&#xD;
+      for it. The Co-eXpression ExtrapolatioN (COXEN) model predicts if cells respond to treatment.&#xD;
+      It may also help determine which drugs fight urothelial cancer based on the characteristics&#xD;
+      of a tumor. Researchers want to test if this model can choose the best therapy for advanced&#xD;
+      urothelial cancer within 3 weeks and how tumors respond to the next best therapy.&#xD;
+&#xD;
+      Objective:&#xD;
+&#xD;
+      To test if the COXEN model can choose the best therapy for advanced urothelial cancer within&#xD;
+      3 weeks.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+      People ages 18 and older whose urothelial cancer has spread after at least 1 line of&#xD;
+      chemotherapy&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+      Participants will be screened with medical history, physical exam, blood and urine tests, and&#xD;
+      tumor scans.&#xD;
+&#xD;
+      Participants will provide a tumor sample from a previous surgery and a new biopsy. A needle&#xD;
+      will remove a small piece of tumor.&#xD;
+&#xD;
+      Participants will repeat screening tests, plus have an electrocardiogram (EKG) and scan. For&#xD;
+      the scan, they will get an injection of radioactive drug. They will lie in a machine that&#xD;
+      takes pictures.&#xD;
+&#xD;
+      Participants will take the drugs assigned by the COXEN model. They will have visits every 2-3&#xD;
+      weeks. These will include blood and urine tests.&#xD;
+&#xD;
+      Participants will have tumor scans every 8-9 weeks.&#xD;
+&#xD;
+      Participants may have another biopsy.&#xD;
+&#xD;
+      Participants will take the drugs until they can't tolerate the side effects or their cancer&#xD;
+      worsens. They may be assigned to a second COXEN therapy.&#xD;
+&#xD;
+      Participants will have a follow-up visit 4-5 weeks after their last drug dose.&#xD;
+&#xD;
+      Participants will be contacted by phone every few months until death.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:&#xD;
+&#xD;
+        -  Patients presenting de novo with metastatic bladder cancer, or developing visceral&#xD;
+           metastatic disease after local treatment, are incurable with currently available&#xD;
+           therapeutic modalities.&#xD;
+&#xD;
+        -  Only a small number of chemotherapeutic agents have been tested and very few have some&#xD;
+           single agent activity in the treatment of metastatic urothelial carcinoma. However most&#xD;
+           (&gt;100) Food and Drug Administration (FDA) approved anticancer agents have yet to be&#xD;
+           tested in this disease.&#xD;
+&#xD;
+        -  Novel approaches to the development of genomic predictors of chemosensitivity that do&#xD;
+           not require clinical trials for their identification are urgently needed in order to&#xD;
+           identify agents that are clinically effective when either repurposed or discovered de&#xD;
+           novo specifically for urothelial carcinoma. Such repurposing of an FDA approved&#xD;
+           anticancer agent in order to advance therapy from one cancer to another would require&#xD;
+           only minimal clinical development, saving billions of dollars and reducing the time&#xD;
+           required to reach routine clinical practice.&#xD;
+&#xD;
+        -  Our established extramural-intramural National Cancer Institute (NCI) collaboration&#xD;
+           pulls together significant expertise in biomarker development and clinical trial design&#xD;
+           in bladder cancer. The innovation of this group lies not only in the novel scientific&#xD;
+           approaches i.e. CoeXpression ExtrapolatioN (COXEN) under investigation, but also in the&#xD;
+           successful creation of a cohesive multi-institutional research collaboration dedicated&#xD;
+           to improved clinical outcomes in bladder cancer patients.&#xD;
+&#xD;
+        -  COXEN uses molecular profiles as a Rosetta Stone for translating drug sensitivities of&#xD;
+           one set of cancers into predictions for another completely independent set of cell lines&#xD;
+           or human tumors. The COXEN methodology has been scrutinized and deemed methodologically&#xD;
+           sound by peer review. The ability of COXEN to predict drug effectiveness in patients a&#xD;
+           priori, from purely in vitro assays, is unique as no other tool currently either in&#xD;
+           practice or in development provides similar results.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+      - To determine the feasibility of using the Co-eXpression ExtrapolatioN (COXEN) model in&#xD;
+      making a real-time treatment decision (within 3 weeks) in patients with advanced urothelial&#xD;
+      carcinoma.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+        -  Patients must have a histologically confirmed diagnosis of metastatic, progressive&#xD;
+           urothelial carcinoma of the bladder, urethra, ureter, or renal pelvis.&#xD;
+&#xD;
+        -  Patients must have progressive metastatic disease defined as new or progressive lesions&#xD;
+           on cross-sectional imaging.&#xD;
+&#xD;
+        -  Patients must have at least:&#xD;
+&#xD;
+             -  One measurable site of disease (according to Response Evaluation Criteria in Solid&#xD;
+                Tumors (RECIST) criteria)&#xD;
+&#xD;
+             -  Or, appearance of one new bone lesion&#xD;
+&#xD;
+        -  Patients must have been previously treated, as defined by treatment with at least one&#xD;
+           prior cytotoxic chemotherapy regimen or agent. Patients may have received any number of&#xD;
+           prior cytotoxic agents.&#xD;
+&#xD;
+        -  Archival tumor tissue must be available for enrollment.&#xD;
+&#xD;
+        -  Tumor amenable to biopsy will be mandatory for this study.&#xD;
+&#xD;
+        -  18 years of age or older&#xD;
+&#xD;
+        -  Eastern Cooperative Oncology Group (ECOG) performance status &lt;2 (Karnofsky &gt;60%)&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+        -  This will be a pilot single-arm, open-label study using the COXEN score to select the&#xD;
+           best next therapy from a list of 75 FDA approved anti-neoplastic drugs, in patients with&#xD;
+           metastatic bladder cancer who have progressed despite treatment with cytotoxic&#xD;
+           chemotherapy. Combinations of the listed agents may also be utilized provided that phase&#xD;
+           1 data are available.&#xD;
+&#xD;
+        -  The COXEN algorithm requires a multi-step process (pathology, tissue processing,&#xD;
+           messenger ribonucleic acid (mRNA) profiling, bioinformatics, etc.) and is potentially&#xD;
+           labor intensive and time intensive.&#xD;
+&#xD;
+        -  Given the disease state of patients eligible for this protocol, using this algorithm to&#xD;
+           select a treatment would only be a worthwhile process to undertake if it can be&#xD;
+           demonstrated that a very high fraction of patients are likely to obtain the benefit from&#xD;
+           the procedure.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 27, 2017</start_date>
+  <completion_date type="Actual">October 23, 2019</completion_date>
+  <primary_completion_date type="Actual">October 23, 2019</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants Who Enrolled and Underwent a Biopsy Who Went on to Receive Treatment Within 21 Days</measure>
+    <time_frame>time to treatment assignment, approximately 3 weeks</time_frame>
+    <description>Participants were assigned a treatment combination by the co-expression extrapolation (COXEN) algorithm. The COXEN algorithm used a multi-step process that involved pathology, tissue processing, messenger ribonucleic acid (mRNA) profiling and bioinformatics, etc. to select a treatment regimen.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival</measure>
+    <time_frame>Every 2 cycles until progression, approximately 4 months.</time_frame>
+    <description>Progression Free Survival is defined as the duration of time from start of treatment to time of progression or death, whichever occurs first. Radiological assessment per the Response Evaluation Criteria in Solid Tumors (RECIST) was done every 2 cycles to measure change in tumor size until tumors increased. Progression is at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study; this includes the baseline sum if that is the smallest on study. The appearance of one or more new lesions is also considered progressions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Patients With an Objective Response</measure>
+    <time_frame>End of treatment, approximately 4 months.</time_frame>
+    <description>Objective Response is defined as a Complete Response and Partial Response and was assessed by the Response Evaluation Criteria in Solid Tumors (RECIST). Complete Response (CR) is disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to &lt;10 mm. Partial Response (PR) is at least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum of diameters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>From date of treatment content until the date of death from any cause or date off study, whichever came first, assessed up to 10 months and 16 days.</time_frame>
+    <description>Amount of time subject survives without disease progression after treatment. Disease progression was assessed by the Response Evaluation Criteria in Solid Tumors (RECIST) and is defined as at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study. The appearance of one or more new lesions is also considered progressions.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Who Had Adverse Events ≥ Grade 1</measure>
+    <time_frame>Date treatment consent signed to date off study, approx. 5 mos/ 6 dys for the 1st Grp; 10 mos/16 dys for the 2nd Grp; 8 mos/13 dys for the 3rd Grp; 5 mos/16 dys for the 4th Grp; and 27 dys for the 5th Grp.</time_frame>
+    <description>Adverse events were assessed by the Common Terminology Criteria for Adverse Events (CTCAE) Version 4.0. Grade 1 is mild, Grade 2 is moderate, Grade 3 is severe, Grade 4 is life-threatening or disabling, and Grade 5 is death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Serious and Non-serious Adverse Events Assessed by the Common Terminology Criteria for Adverse Events (CTCAE v4.0)</measure>
+    <time_frame>Date treatment consent signed to date off study, approx. 5 mos/ 6 dys for the 1st Grp; 10 mos/16 dys for the 2nd Grp; 8 mos/13 dys for the 3rd Grp; 5 mos/16 dys for the 4th Grp; and 27 dys for the 5th Grp.</time_frame>
+    <description>Here is the number of participants with serious and non-serious adverse events assessed by the Common Terminology Criteria for Adverse Events (CTCAE v4.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">8</enrollment>
+  <condition>Urothelial Carcinoma</condition>
+  <condition>Bladder Cancer</condition>
+  <condition>Urinary Bladder Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Treatment Regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment regimen selected by CO eXpression ExtrapolatioN (COXEN) model</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>75 approved agents</intervention_name>
+    <description>One or combination of agents: Abiraterone, Arsenic Trioxide, Asparaginase Escherichia coli source, Axitinib, Azacitidine, Bendamustine, Bleomycin, Bortezomib, Busulfan, Carboplatin, Carfilzomib, Carmustine, Chlorambucil, Cisplatin, Cladribine, Clofarabine, Crizotinib, Cytarabine, Dacarbazine, Dactinomycin, Dasatinib, Daunorubicin, Decitabine, Docetaxel, Doxorubicin, Epirubicin, Eribulin, Erlotinib, Estramustine, Etoposide, Exemestane, Floxuridine, Fludarabine, Fluorouracil, Gefitinib, Gemcitabine, Hydroxyurea, Idarubicin, Ifosfamide, Imatinib, Irinotecan, Ixabepilone, Lapatinib, Lomustine, Mechlor, Melphalan, Mercapto, Methotrexate, Mitomycin, Mitotane, Mitoxantrone, Nilotinib, Oxaliplatin, Paclitaxel, Pazopanib, Pentostatin, Romidepsin, Ruxolitinib, Sorafenib, Streptozocin, Sunitinib, Tamoxifen, Temsirolimus, Teniposide, Thioguanine, Thiotepa, Topotecan, Toremifene, Tretinoin, Vandetanib, Vemurafenib, Vinblastine, Vincristine, Vismodegib, and/or Vorinostat</description>
+    <arm_group_label>Treatment Regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COXEN</intervention_name>
+    <description>The CO eXpression ExtrapolatioN (COXEN) algorithm will be used to determine the next best therapy from among 75 Food and Drug Administration (FDA) approved agents (single agent or combination) in patients that have progressed on at least one chemotherapy regimen.</description>
+    <arm_group_label>Treatment Regimen</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+          -  Patients must have a histologically confirmed diagnosis of metastatic, progressive&#xD;
+             urothelial carcinoma of the bladder, urethra, ureter, or renal pelvis.&#xD;
+&#xD;
+          -  Patients must have progressive metastatic disease defined as new or progressive&#xD;
+             lesions on cross-sectional imaging.&#xD;
+&#xD;
+          -  Patients must have at least:&#xD;
+&#xD;
+               -  One measurable site of disease (according to Response Evaluation Criteria in&#xD;
+                  Solid Tumors (RECIST) criteria), defined as at least one lesion that can be&#xD;
+                  accurately measured in at least one dimension (longest diameter to be recorded&#xD;
+                  for non-nodal lesions and short axis for nodal lesions) as more than or equal to&#xD;
+                  20 mm with conventional techniques or as less than or equal to 10 mm with spiral&#xD;
+                  computed tomography (CT) scan.&#xD;
+&#xD;
+               -  Or, appearance of one new bone lesion&#xD;
+&#xD;
+          -  Patients must have been previously treated with at least one prior cytotoxic&#xD;
+             chemotherapy regimen or agent. Patients may have received any number of prior&#xD;
+             cytotoxic agents.&#xD;
+&#xD;
+          -  Archival tumor tissue must be available for enrollment.&#xD;
+&#xD;
+          -  Tumor amenable to biopsy will be mandatory for this study.&#xD;
+&#xD;
+          -  Age more than or equal to 18 years. Eastern Cooperative Oncology Group (ECOG)&#xD;
+             performance status less than or equal to 2 (Karnofsky more than or equal to 60%,).&#xD;
+&#xD;
+          -  Patients must have normal organ and marrow function as defined below:&#xD;
+&#xD;
+               -  hemoglobin more than or equal to 9 g/dL&#xD;
+&#xD;
+               -  leukocytes more than or equal to 3,000/mcL&#xD;
+&#xD;
+               -  absolute neutrophil count more than or equal to 1,200/mcL&#xD;
+&#xD;
+               -  platelets more than or equal to 75,000/mcL&#xD;
+&#xD;
+               -  total bilirubin within normal institutional limits&#xD;
+&#xD;
+               -  Aspartate aminotransferase (AST)/Serum glutamic oxaloacetic transaminase&#xD;
+                  (SGOT)/Alanine aminotransferase (ALT)/Serum glutamic pyruvic transaminase(SGPT)&#xD;
+                  less than or equal to 2.5 X institutional upper limit of normal&#xD;
+&#xD;
+               -  creatinine 1.5 x the normal institutional limits&#xD;
+&#xD;
+        OR&#xD;
+&#xD;
+        --creatinine clearance more than or equal to 40 mL/min/1.73 m^2&#xD;
+&#xD;
+          -  Because many of the therapeutic agents used in this trial are known to be teratogenic,&#xD;
+             women of child-bearing potential and men must agree to use adequate contraception&#xD;
+             (hormonal or barrier method of birth control; abstinence) prior to study entry and for&#xD;
+             the duration of study participation. Should a woman become pregnant or suspect she is&#xD;
+             pregnant while she or her partner is participating in this study, she should inform&#xD;
+             her treating physician immediately.&#xD;
+&#xD;
+          -  Human immunodeficiency virus (HIV)-positive patients on combination antiretroviral&#xD;
+             therapy may be eligible if there are no pharmacokinetic interactions with the agents&#xD;
+             used on the study, stable on Chimeric antigen receptor T-cell (CART) therapy and&#xD;
+             cluster of differentiation 4 (CD4) is &gt;200 and viral load is undetectable.&#xD;
+&#xD;
+          -  Ability of subject to understand and the willingness to sign a written informed&#xD;
+             consent document.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+          -  The patient has received cytotoxic chemotherapy (including investigational cytotoxic&#xD;
+             chemotherapy) within 3 weeks or biologic agents (e.g., cytokines or antibodies) within&#xD;
+             4 weeks prior to study enrollment.&#xD;
+&#xD;
+          -  Patients who are receiving any investigational agents.&#xD;
+&#xD;
+          -  Patients with known brain metastases should be excluded from this clinical trial&#xD;
+             because of their poor prognosis and because they often develop progressive neurologic&#xD;
+             dysfunction that would confound the evaluation of neurologic and other adverse events.&#xD;
+             Patients with brain metastases that are stable after more than or equal to 1 year&#xD;
+             after primary surgery or radiation will not be excluded.&#xD;
+&#xD;
+          -  The subject has not recovered to baseline or Common Terminology Criteria for Adverse&#xD;
+             Events (CTCAE) less than or equal to Grade 1 from toxicity due to all prior therapies&#xD;
+             except alopecia and other non-clinically significant adverse events (AEs(.&#xD;
+&#xD;
+          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active&#xD;
+             infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac&#xD;
+             arrhythmia, or psychiatric illness/social situations that would limit compliance with&#xD;
+             study requirements.&#xD;
+&#xD;
+          -  Patients who are Hepatitis B or C positive.&#xD;
+&#xD;
+          -  Pregnant women are excluded from this study because the agents used in the study have&#xD;
+             the potential for teratogenic or abortifacient effects. Because there is an unknown&#xD;
+             but potential risk for adverse events in nursing infants secondary to treatment of the&#xD;
+             mother with these agents, breastfeeding should be discontinued if the mother is&#xD;
+             treated with these agents. These potential risks may also apply to other agents used&#xD;
+             in this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrea B Apolo, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute (NCI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2016-C-0121.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>May 28, 2016</study_first_submitted>
+  <study_first_submitted_qc>May 28, 2016</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 2, 2016</study_first_posted>
+  <results_first_submitted>October 14, 2020</results_first_submitted>
+  <results_first_submitted_qc>October 14, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 6, 2020</results_first_posted>
+  <last_update_submitted>October 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Cancer Institute (NCI)</investigator_affiliation>
+    <investigator_full_name>Andrea Apolo, M.D.</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>COXEN</keyword>
+  <keyword>Bladder Cancer</keyword>
+  <keyword>Molecular Profiles</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Transitional Cell</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 21, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/01/NCT02788201/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>February 12, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/01/NCT02788201/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Doxorubicin 75mg/m^2</title>
+          <description>All participants that received Doxorubicin 75mg/m^2.</description>
+        </group>
+        <group group_id="P2">
+          <title>Paclitaxel 100 mg/m^2 and Erlotinib 150 mg</title>
+          <description>All participants that received Paclitaxel 100 mg/m^2 and Erlotinib 150 mg.</description>
+        </group>
+        <group group_id="P3">
+          <title>Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2</title>
+          <description>All participants that received Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2.</description>
+        </group>
+        <group group_id="P4">
+          <title>Sunitinib 50mg</title>
+          <description>All participants that received Sunitinib 50mg.</description>
+        </group>
+        <group group_id="P5">
+          <title>Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2</title>
+          <description>All participants that received Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2.</description>
+        </group>
+        <group group_id="P6">
+          <title>Participants Who Were Enrolled But Not Treated</title>
+          <description>3 participants were enrolled and signed consent to this study but never started treatment. Treatment was assigned on course initiation.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="1"/>
+                <participants group_id="P5" count="1"/>
+                <participants group_id="P6" count="3"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Did Not Start Treatment</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="3"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="1"/>
+                <participants group_id="P6" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="1"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="3"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="1"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Ineligible</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Doxorubicin 75mg/m^2</title>
+          <description>All participants that received Doxorubicin 75mg/m^2.</description>
+        </group>
+        <group group_id="B2">
+          <title>Paclitaxel 100 mg/m^2 and Erlotinib 150 mg</title>
+          <description>All participants that received Paclitaxel 100 mg/m^2 and Erlotinib 150 mg.</description>
+        </group>
+        <group group_id="B3">
+          <title>Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2</title>
+          <description>All participants that received Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2.</description>
+        </group>
+        <group group_id="B4">
+          <title>Sunitinib 50mg</title>
+          <description>All participants that received Sunitinib 50mg.</description>
+        </group>
+        <group group_id="B5">
+          <title>Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2</title>
+          <description>All participants that received Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2.</description>
+        </group>
+        <group group_id="B6">
+          <title>Participants Who Were Enrolled But Not Treated</title>
+          <description>3 participants were enrolled and signed consent to this study but never started treatment. Treatment was assigned on course initiation.</description>
+        </group>
+        <group group_id="B7">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="1"/>
+            <count group_id="B2" value="1"/>
+            <count group_id="B3" value="1"/>
+            <count group_id="B4" value="1"/>
+            <count group_id="B5" value="1"/>
+            <count group_id="B6" value="3"/>
+            <count group_id="B7" value="8"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="2"/>
+                    <measurement group_id="B7" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="1"/>
+                    <measurement group_id="B7" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="72.1" spread="0"/>
+                    <measurement group_id="B2" value="60" spread="0"/>
+                    <measurement group_id="B3" value="61.8" spread="0"/>
+                    <measurement group_id="B4" value="56.8" spread="0"/>
+                    <measurement group_id="B5" value="62" spread="0"/>
+                    <measurement group_id="B6" value="58.43" spread="11.4"/>
+                    <measurement group_id="B7" value="61.86" spread="11.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="1"/>
+                    <measurement group_id="B7" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="2"/>
+                    <measurement group_id="B7" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="3"/>
+                    <measurement group_id="B7" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="3"/>
+                    <measurement group_id="B7" value="8"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="3"/>
+                    <measurement group_id="B7" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants Who Enrolled and Underwent a Biopsy Who Went on to Receive Treatment Within 21 Days</title>
+        <description>Participants were assigned a treatment combination by the co-expression extrapolation (COXEN) algorithm. The COXEN algorithm used a multi-step process that involved pathology, tissue processing, messenger ribonucleic acid (mRNA) profiling and bioinformatics, etc. to select a treatment regimen.</description>
+        <time_frame>time to treatment assignment, approximately 3 weeks</time_frame>
+        <population>This primary measure was to determine the feasibility of the COXEN algorithm. Data collected from participants receiving different treatments were combined and analyzed as a single group as pre-specified in the study protocol.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>All COXEN Participants Enrolled</title>
+            <description>All participants who were enrolled that signed consent and received Doxorubicin 75mg/m^2, Paclitaxel 100 mg/m^2 and Erlotinib 150 mg, Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2, Sunitinib 50mg, Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2.&#xD;
+Three participants were enrolled to this study but never started treatment. Treatment was assigned on course initiation.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants Who Enrolled and Underwent a Biopsy Who Went on to Receive Treatment Within 21 Days</title>
+          <description>Participants were assigned a treatment combination by the co-expression extrapolation (COXEN) algorithm. The COXEN algorithm used a multi-step process that involved pathology, tissue processing, messenger ribonucleic acid (mRNA) profiling and bioinformatics, etc. to select a treatment regimen.</description>
+          <population>This primary measure was to determine the feasibility of the COXEN algorithm. Data collected from participants receiving different treatments were combined and analyzed as a single group as pre-specified in the study protocol.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="63"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Progression Free Survival</title>
+        <description>Progression Free Survival is defined as the duration of time from start of treatment to time of progression or death, whichever occurs first. Radiological assessment per the Response Evaluation Criteria in Solid Tumors (RECIST) was done every 2 cycles to measure change in tumor size until tumors increased. Progression is at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study; this includes the baseline sum if that is the smallest on study. The appearance of one or more new lesions is also considered progressions.</description>
+        <time_frame>Every 2 cycles until progression, approximately 4 months.</time_frame>
+        <population>Not all patients enrolled received a treatment from the treatment algorithm. Those that went on for treatment were evaluated for progression free survival within the 4-month times frame. Data collected from participants receiving different treatments were combined and analyzed as a single group as pre-specified in the study protocol.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>All COXEN Participants Receiving Treatment</title>
+            <description>All participants that received Doxorubicin 75mg/m^2, Paclitaxel 100 mg/m^2 and Erlotinib 150 mg, Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2, Sunitinib 50mg, Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Progression Free Survival</title>
+          <description>Progression Free Survival is defined as the duration of time from start of treatment to time of progression or death, whichever occurs first. Radiological assessment per the Response Evaluation Criteria in Solid Tumors (RECIST) was done every 2 cycles to measure change in tumor size until tumors increased. Progression is at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study; this includes the baseline sum if that is the smallest on study. The appearance of one or more new lesions is also considered progressions.</description>
+          <population>Not all patients enrolled received a treatment from the treatment algorithm. Those that went on for treatment were evaluated for progression free survival within the 4-month times frame. Data collected from participants receiving different treatments were combined and analyzed as a single group as pre-specified in the study protocol.</population>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.2" lower_limit="1.4" upper_limit="3.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Proportion of Patients With an Objective Response</title>
+        <description>Objective Response is defined as a Complete Response and Partial Response and was assessed by the Response Evaluation Criteria in Solid Tumors (RECIST). Complete Response (CR) is disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to &lt;10 mm. Partial Response (PR) is at least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum of diameters.</description>
+        <time_frame>End of treatment, approximately 4 months.</time_frame>
+        <population>Not all patients enrolled received a treatment from the treatment algorithm. We included all patient who received treatment in this group. Data collected from participants receiving different treatments were combined and analyzed as a single group as pre-specified in the study protocol.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>All COXEN Participants Receiving Treatment</title>
+            <description>All participants that received Doxorubicin 75mg/m^2, Paclitaxel 100 mg/m^2 and Erlotinib 150 mg, Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2, Sunitinib 50mg, Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Proportion of Patients With an Objective Response</title>
+          <description>Objective Response is defined as a Complete Response and Partial Response and was assessed by the Response Evaluation Criteria in Solid Tumors (RECIST). Complete Response (CR) is disappearance of all target lesions. Any pathological lymph nodes (whether target or non-target) must have reduction in short axis to &lt;10 mm. Partial Response (PR) is at least a 30% decrease in the sum of the diameters of target lesions, taking as reference the baseline sum of diameters.</description>
+          <population>Not all patients enrolled received a treatment from the treatment algorithm. We included all patient who received treatment in this group. Data collected from participants receiving different treatments were combined and analyzed as a single group as pre-specified in the study protocol.</population>
+          <units>proportion of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Complete Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0" lower_limit="0" upper_limit="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Partial Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0" lower_limit="0" upper_limit="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival</title>
+        <description>Amount of time subject survives without disease progression after treatment. Disease progression was assessed by the Response Evaluation Criteria in Solid Tumors (RECIST) and is defined as at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study. The appearance of one or more new lesions is also considered progressions.</description>
+        <time_frame>From date of treatment content until the date of death from any cause or date off study, whichever came first, assessed up to 10 months and 16 days.</time_frame>
+        <population>Data collected from participants receiving different treatments were combined and analyzed as a single group as pre-specified in the study protocol.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>All COXEN Participants Receiving Treatment</title>
+            <description>All participants that received Doxorubicin 75mg/m^2, Paclitaxel 100 mg/m^2 and Erlotinib 150 mg, Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2, Sunitinib 50mg, Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival</title>
+          <description>Amount of time subject survives without disease progression after treatment. Disease progression was assessed by the Response Evaluation Criteria in Solid Tumors (RECIST) and is defined as at least a 20% increase in the sum of the diameters of target lesions, taking as reference the smallest sum on study. The appearance of one or more new lesions is also considered progressions.</description>
+          <population>Data collected from participants receiving different treatments were combined and analyzed as a single group as pre-specified in the study protocol.</population>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="5"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.4" lower_limit="5.2" upper_limit="NA">There is insufficient data to calculate the upper limit confidence interval.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants Who Had Adverse Events ≥ Grade 1</title>
+        <description>Adverse events were assessed by the Common Terminology Criteria for Adverse Events (CTCAE) Version 4.0. Grade 1 is mild, Grade 2 is moderate, Grade 3 is severe, Grade 4 is life-threatening or disabling, and Grade 5 is death.</description>
+        <time_frame>Date treatment consent signed to date off study, approx. 5 mos/ 6 dys for the 1st Grp; 10 mos/16 dys for the 2nd Grp; 8 mos/13 dys for the 3rd Grp; 5 mos/16 dys for the 4th Grp; and 27 dys for the 5th Grp.</time_frame>
+        <population>Adverse Events were not monitored for those participants who were enrolled but not treated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Doxorubicin 75mg/m^2</title>
+            <description>All participants that received Doxorubicin 75mg/m^2.</description>
+          </group>
+          <group group_id="O2">
+            <title>Paclitaxel 100 mg/m^2 and Erlotinib 150 mg</title>
+            <description>All participants that received Paclitaxel 100 mg/m^2 and Erlotinib 150 mg.</description>
+          </group>
+          <group group_id="O3">
+            <title>Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2</title>
+            <description>All participants that received Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2.</description>
+          </group>
+          <group group_id="O4">
+            <title>Sunitinib 50mg</title>
+            <description>All participants that received Sunitinib 50mg.</description>
+          </group>
+          <group group_id="O5">
+            <title>Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2</title>
+            <description>All participants that received Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2.</description>
+          </group>
+          <group group_id="O6">
+            <title>Participants Who Were Enrolled But Not Treated</title>
+            <description>3 participants were enrolled and signed consent to this study but never started treatment. Treatment was assigned on course initiation.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Had Adverse Events ≥ Grade 1</title>
+          <description>Adverse events were assessed by the Common Terminology Criteria for Adverse Events (CTCAE) Version 4.0. Grade 1 is mild, Grade 2 is moderate, Grade 3 is severe, Grade 4 is life-threatening or disabling, and Grade 5 is death.</description>
+          <population>Adverse Events were not monitored for those participants who were enrolled but not treated.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1"/>
+                <count group_id="O2" value="1"/>
+                <count group_id="O3" value="1"/>
+                <count group_id="O4" value="1"/>
+                <count group_id="O5" value="1"/>
+                <count group_id="O6" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Grade 2 Dysgeusia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 Anemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 Fatigue</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 Febrile neutropenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="1"/>
+                    <measurement group_id="O5" value="1"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 Gastrointestinal disorders - Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="1"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 Generalized muscle weakness</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 GI disorder-Other, hernia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="1"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 Thromboembolic event</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 Hyponatremia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 Hypophosphatemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="1"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 Infections &amp; Infestations-Other, Bactremia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 Platelet count decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 Small intestinal obstruction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="1"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 3 White blood cell count decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 4 Neutrophil count decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 4 Platelet count decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 4 White blood cell count decreased</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                    <measurement group_id="O4" value="0"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Grade 5 - Death NOS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="1"/>
+                    <measurement group_id="O5" value="0"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Serious and Non-serious Adverse Events Assessed by the Common Terminology Criteria for Adverse Events (CTCAE v4.0)</title>
+        <description>Here is the number of participants with serious and non-serious adverse events assessed by the Common Terminology Criteria for Adverse Events (CTCAE v4.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned.</description>
+        <time_frame>Date treatment consent signed to date off study, approx. 5 mos/ 6 dys for the 1st Grp; 10 mos/16 dys for the 2nd Grp; 8 mos/13 dys for the 3rd Grp; 5 mos/16 dys for the 4th Grp; and 27 dys for the 5th Grp.</time_frame>
+        <population>Adverse Events were not monitored for those participants who were enrolled but not treated.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Doxorubicin 75mg/m^2</title>
+            <description>All participants that received Doxorubicin 75mg/m^2.</description>
+          </group>
+          <group group_id="O2">
+            <title>Paclitaxel 100 mg/m^2 and Erlotinib 150 mg</title>
+            <description>All participants that received Paclitaxel 100 mg/m^2 and Erlotinib 150 mg.</description>
+          </group>
+          <group group_id="O3">
+            <title>Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2</title>
+            <description>All participants that received Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2.</description>
+          </group>
+          <group group_id="O4">
+            <title>Sunitinib 50mg</title>
+            <description>All participants that received Sunitinib 50mg.</description>
+          </group>
+          <group group_id="O5">
+            <title>Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2</title>
+            <description>All participants that received Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2.</description>
+          </group>
+          <group group_id="O6">
+            <title>Participants Who Were Enrolled But Not Treated</title>
+            <description>3 participants were enrolled and signed consent to this study but never started treatment. Treatment was assigned on course initiation.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Serious and Non-serious Adverse Events Assessed by the Common Terminology Criteria for Adverse Events (CTCAE v4.0)</title>
+          <description>Here is the number of participants with serious and non-serious adverse events assessed by the Common Terminology Criteria for Adverse Events (CTCAE v4.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned.</description>
+          <population>Adverse Events were not monitored for those participants who were enrolled but not treated.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1"/>
+                <count group_id="O2" value="1"/>
+                <count group_id="O3" value="1"/>
+                <count group_id="O4" value="1"/>
+                <count group_id="O5" value="1"/>
+                <count group_id="O6" value="1"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                    <measurement group_id="O3" value="1"/>
+                    <measurement group_id="O4" value="1"/>
+                    <measurement group_id="O5" value="1"/>
+                    <measurement group_id="O6" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Date treatment consent signed to date off study, approximately 5 months and 6 days for the Doxorubicin 75mg/m^2 Arm/Group, 10 months and 16 days for the Paclitaxel 100 mg/m^2 and Erlotinib 150 mg Arm/Group, 8 months and 13 days for the Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2 Arm/Group, 5 months and 16 days for the Sunitinib 50mg Arm/Group, 27 days for the Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2 Arm/Group.</time_frame>
+      <desc>Serious and Other (Not Including Serious) Adverse Events were not monitored for those participants who were enrolled but not treated. However, All-Cause Mortality was monitored for one participant in the Participants Who Were Enrolled But Not Treated Arm/Group.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Doxorubicin 75mg/m^2</title>
+          <description>All participants that received Doxorubicin 75mg/m^2.</description>
+        </group>
+        <group group_id="E2">
+          <title>Paclitaxel 100 mg/m^2 and Erlotinib 150 mg</title>
+          <description>All participants that received Paclitaxel 100 mg/m^2 and Erlotinib 150 mg.</description>
+        </group>
+        <group group_id="E3">
+          <title>Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2</title>
+          <description>All participants that received Paclitaxel 135mg/m^2 and Doxorubicin 40mg/m^2.</description>
+        </group>
+        <group group_id="E4">
+          <title>Sunitinib 50mg</title>
+          <description>All participants that received Sunitinib 50mg.</description>
+        </group>
+        <group group_id="E5">
+          <title>Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2</title>
+          <description>All participants that received Vorinostat 500mg and Etoposide 100mg/m^2 and 60mg/m^2.</description>
+        </group>
+        <group group_id="E6">
+          <title>Participants Who Were Enrolled But Not Treated</title>
+          <description>3 participants were enrolled and signed consent to this study but never started treatment. Treatment was assigned on course initiation.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>CTCAE (4.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" subjects_affected="1" subjects_at_risk="1"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Febrile neutropenia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Death NOS</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>CTCAE (4.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E5" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gastrointestinal disorders - Other, Hernia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>Small intestinal obstruction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Infections and infestations - Other, Bacteremia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Neutrophil count decreased</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>Platelet count decreased</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>White blood cell decreased</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>Febrile Neutropenia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyponatremia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>Hypophosphatemia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Generalized muscle weakness</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dysgeusia</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Thromboembolic event</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="1"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Andrea Apolo</name_or_title>
+      <organization>National Cancer Institute</organization>
+      <phone>301-480-0536</phone>
+      <email>apoloab@nih.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+
