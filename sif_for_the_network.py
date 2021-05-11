@@ -99,23 +99,25 @@ def arama(aranan):
 termlist = []
 idlist = []
 group_list = []
+id = "dummy_id"
+old_id = []
 counter = 1
 
-file_node_labels_csv = open("12-11-Sorafenib_Doxorubicine_Cytarabine_node_labels.csv", "w")
+file_node_labels_csv = open("05-01-Sorafenib_Doxorubicine_Cytarabine_node_labels.csv", "w")
 file_node_labels_csv.writelines("," + "attribute" + "\n")
 
-file_clinical_trials = open("C:\Python\Python38\Projects\Clinical_Trials\Sorafenib_Doxorubicine_Cytarabine-data.csv", "r")  
+file_clinical_trials = open("C:\Python\Python38\Projects\Clinical_Trials\Sorafenib_Doxorubicine_Cytarabine-data.csv", "r")
 file_clinical_trials.readline()
 
-file_network_sif = open("12-11-Sorafenib_Doxorubicine_Cytarabine_network_sif.sif","w")
+file_network_sif = open("05-01-Sorafenib_Doxorubicine_Cytarabine_network_sif.sif","w")
 
-file_node_descriptions_csv = open("12-11-Sorafenib_Doxorubicine_Cytarabine_node_descriptions.csv", "w")
+file_node_descriptions_csv = open("05-01-Sorafenib_Doxorubicine_Cytarabine_node_descriptions.csv", "w")
 file_node_descriptions_csv.writelines("," + "title"+ "," + "descriptions" + "\n")
 
-file_control_csv = open("12-11-Sorafenib_Doxorubicine_Cytarabine_csv_id_vs_dict_id.csv", "w")
+file_control_csv = open("05-01-Sorafenib_Doxorubicine_Cytarabine_csv_id_vs_dict_id.csv", "w")
 file_control_csv.writelines("csv term in  the file" + "," + "Found dict term" + "\n")
 
-file_int_strength_csv = open("12-11-Sorafenib_Doxorubicine_Cytarabine_edge_strength.csv", "w")
+file_int_strength_csv = open("05-01-Sorafenib_Doxorubicine_Cytarabine_edge_strength.csv", "w")
 file_int_strength_csv.writelines("," + "InteractionStrength" + "\n")
 
 while 1:
@@ -126,42 +128,42 @@ while 1:
 
     if len(lines) == 1 and "" not in lines:
         id_description = lines[0][:-45]
+        old_id.append(id)  # farklı araştırmalardaki study tekrarlamalarını engellemek için (6.1.21)
         id = lines[0][-12:-1]
         file_node_descriptions_csv.writelines(id+ "," + id_description+ "," + "\n")
+        file_control_csv.writelines(id + "," + id_description + "," + "\n")
         print(counter)
         counter += 1
+    if id not in old_id:
+        if len(lines) > 1 and "" in lines:
+            group_list.append(lines)
+        elif "" not in lines and len(lines) >1:
+            terms = lines
+            searching = arama(terms[0])
+            term_in_dict = searching[1]
+            term_name = searching[0].replace(",", "")
+            file_control_csv.writelines(terms[0] + "," + term_name + "\n")
 
-    elif len(lines) > 1 and "" in lines:
-        group_list.append(lines)
+            if id not in idlist:
+                file_node_labels_csv.writelines(id + "," + "study" + "\n")
+                for n in range(1, len(terms)):
+                    file_network_sif.writelines(id + "-" + str(n) + " " + "part_of" + " " + id + "\n")
+                    file_node_labels_csv.writelines(id + "-" + str(n) + "," + "group" + "\n")
+                    try:
+                        file_node_descriptions_csv.writelines(id + "-" + str(n) + "," + group_list[0][n] + "," + "Description: " + group_list[1][n] + "\n")
+                    except IndexError:
+                        file_node_descriptions_csv.writelines(id + "-" + str(n) + "," + group_list[0][n] + "," + "Description: " + "No description found" + "\n")
+                idlist.append(id)
+            group_list = []
+            if term_in_dict not in termlist:
+                file_node_labels_csv.writelines(str(term_in_dict) + "," + "disease" + "\n")
+                file_node_descriptions_csv.writelines(str(term_in_dict) + "," + term_name + "," + "\n")
+                termlist.append(term_in_dict)
 
-    elif "" not in lines:
-        terms = lines
-        term_in_dict = arama(terms[0])[1]
-        term_name = arama(terms[0])[0].replace(",", "")
-        file_control_csv.writelines(terms[0] + "," + term_name + "\n")
-
-        if id not in idlist:
-            file_node_labels_csv.writelines(id + "," + "study" + "\n")
-            for n in range(1, len(terms)):
-                file_network_sif.writelines(id + "-" + str(n) + " " + "part_of" + " " + id + "\n")
-                file_node_labels_csv.writelines(id + "-" + str(n) + "," + "group" + "\n")
-
-                try:
-                    file_node_descriptions_csv.writelines(id + "-" + str(n) + "," + group_list[0][n] + "," + "Description: " + group_list[1][n] + "\n")
-                except IndexError:
-                    file_node_descriptions_csv.writelines(id + "-" + str(n) + "," + group_list[0][n] + "," + "Description: " + "No description found" + "\n")
-
-        idlist.append(id)
-        group_list = []
-        if term_in_dict not in termlist:
-            file_node_labels_csv.writelines(str(term_in_dict) + "," + "disease" + "\n")
-            file_node_descriptions_csv.writelines(str(term_in_dict) + "," + term_name + "," + "\n")
-            termlist.append(term_in_dict)
-
-        for n in range(1,len(terms)):
-            if terms[n].split()[1] != "%0.0":
-                file_network_sif.writelines(id + "-" + str(n) + " " +"associated_with" + " " + str(term_in_dict) + "\n")
-                file_int_strength_csv.writelines(id + "-" + str(n) + " " + "(associated_with)" + " " + str(term_in_dict) + "," + terms[n].split()[1].replace("%","") + "\n")
+            for n in range(1,len(terms)):
+                if terms[n].split()[1] != "%0.0":
+                    file_network_sif.writelines(id + "-" + str(n) + " " +"associated_with" + " " + str(term_in_dict) + "\n")
+                    file_int_strength_csv.writelines(id + "-" + str(n) + " " + "(associated_with)" + " " + str(term_in_dict) + "," + terms[n].split()[1].replace("%","") + "\n")
 
 
 
